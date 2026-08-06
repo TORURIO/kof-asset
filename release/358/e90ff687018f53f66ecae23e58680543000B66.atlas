@@ -1,0 +1,174 @@
+
+asset/spine/touxiangkuang_haiwai_weisi_role0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/txk_haiwai_weisi_tu_9
+	rotate: true
+	xy: 438, 180
+	size: 23, 72
+	orig: 25, 74
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_8
+	rotate: true
+	xy: 438, 375
+	size: 21, 64
+	orig: 23, 66
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_7
+	rotate: false
+	xy: 498, 2
+	size: 12, 27
+	orig: 14, 29
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_6
+	rotate: false
+	xy: 438, 397
+	size: 63, 62
+	orig: 65, 64
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_5
+	rotate: true
+	xy: 475, 586
+	size: 40, 34
+	orig: 42, 36
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_4
+	rotate: true
+	xy: 438, 460
+	size: 21, 62
+	orig: 23, 64
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_3
+	rotate: true
+	xy: 438, 287
+	size: 53, 71
+	orig: 55, 73
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_2
+	rotate: false
+	xy: 498, 30
+	size: 7, 38
+	orig: 9, 40
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_1
+	rotate: false
+	xy: 498, 69
+	size: 5, 37
+	orig: 7, 39
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_0
+	rotate: false
+	xy: 299, 2
+	size: 198, 177
+	orig: 200, 179
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_17
+	rotate: true
+	xy: 382, 586
+	size: 87, 92
+	orig: 89, 94
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_16
+	rotate: true
+	xy: 279, 586
+	size: 87, 102
+	orig: 89, 104
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_15
+	rotate: true
+	xy: 299, 493
+	size: 92, 102
+	orig: 94, 104
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_14
+	rotate: false
+	xy: 438, 358
+	size: 65, 16
+	orig: 67, 18
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_13
+	rotate: false
+	xy: 438, 341
+	size: 65, 16
+	orig: 67, 18
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_12
+	rotate: false
+	xy: 299, 449
+	size: 120, 43
+	orig: 122, 45
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_11
+	rotate: true
+	xy: 420, 449
+	size: 32, 17
+	orig: 34, 19
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_10
+	rotate: false
+	xy: 279, 674
+	size: 91, 86
+	orig: 93, 88
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_19
+	rotate: true
+	xy: 2, 536
+	size: 229, 276
+	orig: 231, 278
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_18
+	rotate: true
+	xy: 299, 180
+	size: 268, 138
+	orig: 270, 140
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_22
+	rotate: true
+	xy: 2, 2
+	size: 268, 296
+	orig: 270, 298
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_23
+	rotate: true
+	xy: 2, 271
+	size: 264, 296
+	orig: 266, 298
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_20
+	rotate: false
+	xy: 420, 482
+	size: 89, 103
+	orig: 91, 105
+	offset: 1, 1
+	index: -1
+role/txk_haiwai_weisi_tu_21
+	rotate: false
+	xy: 438, 204
+	size: 71, 82
+	orig: 73, 84
+	offset: 1, 1
+	index: -1
