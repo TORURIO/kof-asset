@@ -1,0 +1,194 @@
+
+asset/spine/szhaxCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_MXaxiuluo_hd_009
+	rotate: true
+	xy: 200, 999
+	size: 20, 25
+	orig: 20, 25
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_008
+	rotate: true
+	xy: 140, 970
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_003
+	rotate: true
+	xy: 795, 301
+	size: 130, 140
+	orig: 130, 140
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_002
+	rotate: true
+	xy: 173, 970
+	size: 28, 98
+	orig: 28, 98
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_001
+	rotate: true
+	xy: 227, 514
+	size: 70, 96
+	orig: 70, 96
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_007
+	rotate: true
+	xy: 328, 970
+	size: 26, 25
+	orig: 26, 27
+	offset: 0, 2
+	index: -1
+DDD_MXaxiuluo_hd_006
+	rotate: true
+	xy: 120, 970
+	size: 43, 19
+	orig: 43, 19
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_005
+	rotate: false
+	xy: 173, 999
+	size: 26, 20
+	orig: 26, 20
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_004
+	rotate: true
+	xy: 1010, 2
+	size: 30, 12
+	orig: 30, 12
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_019
+	rotate: true
+	xy: 412, 201
+	size: 182, 116
+	orig: 182, 116
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_010
+	rotate: true
+	xy: 272, 970
+	size: 27, 55
+	orig: 27, 55
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_011
+	rotate: false
+	xy: 98, 970
+	size: 21, 47
+	orig: 21, 47
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_012
+	rotate: true
+	xy: 936, 301
+	size: 61, 64
+	orig: 61, 64
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_013
+	rotate: true
+	xy: 680, 301
+	size: 76, 114
+	orig: 76, 116
+	offset: 0, 2
+	index: -1
+DDD_MXaxiuluo_hd_014
+	rotate: false
+	xy: 529, 301
+	size: 150, 77
+	orig: 150, 77
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_015
+	rotate: true
+	xy: 227, 301
+	size: 212, 137
+	orig: 212, 137
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_016
+	rotate: true
+	xy: 481, 384
+	size: 196, 203
+	orig: 196, 203
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_017
+	rotate: true
+	xy: 53, 970
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_021
+	rotate: false
+	xy: 227, 2
+	size: 291, 198
+	orig: 291, 198
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_020
+	rotate: true
+	xy: 365, 384
+	size: 198, 115
+	orig: 198, 115
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_023
+	rotate: false
+	xy: 535, 2
+	size: 474, 298
+	orig: 474, 298
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_022
+	rotate: true
+	xy: 2, 587
+	size: 382, 532
+	orig: 382, 532
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_025
+	rotate: true
+	xy: 320, 201
+	size: 94, 91
+	orig: 94, 91
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_024
+	rotate: false
+	xy: 2, 2
+	size: 224, 584
+	orig: 224, 584
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_hd_027
+	rotate: true
+	xy: 227, 201
+	size: 97, 92
+	orig: 97, 92
+	offset: 0, 0
+	index: -1
+
+asset/spine/szhaxCard_role1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_MXaxiuluo_hd_018
+	rotate: false
+	xy: 2, 2
+	size: 346, 493
+	orig: 346, 493
+	offset: 0, 0
+	index: -1

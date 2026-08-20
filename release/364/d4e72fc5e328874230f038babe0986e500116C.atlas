@@ -1,0 +1,264 @@
+
+asset/spine/snygnzCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/yigenizi_zl_xcxy_tu_18
+	rotate: true
+	xy: 263, 573
+	size: 75, 30
+	orig: 75, 30
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_33
+	rotate: true
+	xy: 794, 2
+	size: 173, 225
+	orig: 173, 225
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_29
+	rotate: true
+	xy: 208, 708
+	size: 178, 186
+	orig: 178, 186
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_28
+	rotate: false
+	xy: 395, 795
+	size: 138, 199
+	orig: 138, 199
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_27
+	rotate: true
+	xy: 125, 663
+	size: 75, 82
+	orig: 75, 82
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_26
+	rotate: false
+	xy: 85, 671
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_25
+	rotate: false
+	xy: 263, 649
+	size: 30, 58
+	orig: 30, 58
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_24
+	rotate: false
+	xy: 208, 662
+	size: 47, 39
+	orig: 47, 39
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_23
+	rotate: true
+	xy: 764, 476
+	size: 47, 24
+	orig: 47, 24
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_22
+	rotate: false
+	xy: 2, 279
+	size: 293, 293
+	orig: 293, 293
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_21
+	rotate: false
+	xy: 51, 671
+	size: 33, 66
+	orig: 33, 66
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_20
+	rotate: true
+	xy: 695, 480
+	size: 91, 68
+	orig: 91, 68
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_4
+	rotate: false
+	xy: 704, 750
+	size: 74, 73
+	orig: 74, 73
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_5
+	rotate: true
+	xy: 794, 383
+	size: 232, 215
+	orig: 232, 215
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_6
+	rotate: false
+	xy: 296, 279
+	size: 108, 142
+	orig: 108, 144
+	offset: 0, 2
+	index: -1
+role/yigenizi_zl_xcxy_tu_7
+	rotate: true
+	xy: 534, 740
+	size: 57, 136
+	orig: 57, 136
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_1
+	rotate: true
+	xy: 534, 798
+	size: 195, 169
+	orig: 195, 169
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_2
+	rotate: true
+	xy: 451, 750
+	size: 39, 55
+	orig: 39, 55
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_3
+	rotate: false
+	xy: 764, 272
+	size: 29, 129
+	orig: 29, 129
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_8
+	rotate: false
+	xy: 296, 497
+	size: 103, 173
+	orig: 103, 173
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_16
+	rotate: false
+	xy: 395, 750
+	size: 55, 40
+	orig: 55, 40
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_17
+	rotate: true
+	xy: 2, 671
+	size: 67, 48
+	orig: 69, 48
+	offset: 1, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_14
+	rotate: false
+	xy: 792, 616
+	size: 213, 178
+	orig: 213, 178
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_15
+	rotate: true
+	xy: 794, 176
+	size: 206, 217
+	orig: 206, 217
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_12
+	rotate: true
+	xy: 296, 422
+	size: 74, 105
+	orig: 74, 105
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_13
+	rotate: false
+	xy: 131, 573
+	size: 131, 88
+	orig: 131, 88
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_10
+	rotate: false
+	xy: 407, 272
+	size: 356, 207
+	orig: 356, 207
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_11
+	rotate: true
+	xy: 2, 573
+	size: 89, 128
+	orig: 89, 128
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_34
+	rotate: false
+	xy: 779, 795
+	size: 231, 182
+	orig: 231, 182
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_35
+	rotate: false
+	xy: 2, 740
+	size: 187, 275
+	orig: 187, 275
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_36
+	rotate: false
+	xy: 407, 2
+	size: 386, 269
+	orig: 386, 269
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_30
+	rotate: false
+	xy: 695, 572
+	size: 96, 177
+	orig: 96, 177
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_31
+	rotate: false
+	xy: 402, 480
+	size: 292, 259
+	orig: 292, 259
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_32
+	rotate: false
+	xy: 2, 2
+	size: 404, 276
+	orig: 404, 276
+	offset: 0, 0
+	index: -1
+role/yigenizi_zl_xcxy_tu_19
+	rotate: true
+	xy: 764, 402
+	size: 73, 28
+	orig: 73, 28
+	offset: 0, 0
+	index: -1
+
+asset/spine/snygnzCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/yigenizi_zl_xcxy_tu_9
+	rotate: false
+	xy: 2, 2
+	size: 177, 169
+	orig: 179, 169
+	offset: 0, 0
+	index: -1

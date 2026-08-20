@@ -1,0 +1,361 @@
+
+asset/spine/bthaxCard_role2.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h2_00
+	rotate: true
+	xy: 2, 364
+	size: 70, 81
+	orig: 76, 83
+	offset: 3, 2
+	index: -1
+h2_58
+	rotate: false
+	xy: 180, 82
+	size: 68, 79
+	orig: 76, 83
+	offset: 4, 4
+	index: -1
+h2_12
+	rotate: false
+	xy: 178, 186
+	size: 70, 79
+	orig: 76, 83
+	offset: 3, 4
+	index: -1
+h2_10
+	rotate: true
+	xy: 84, 435
+	size: 72, 79
+	orig: 76, 83
+	offset: 1, 4
+	index: -1
+h2_14
+	rotate: false
+	xy: 178, 266
+	size: 70, 79
+	orig: 76, 83
+	offset: 3, 4
+	index: -1
+h2_18
+	rotate: false
+	xy: 180, 2
+	size: 68, 79
+	orig: 76, 83
+	offset: 5, 4
+	index: -1
+h2_02
+	rotate: true
+	xy: 84, 364
+	size: 70, 81
+	orig: 76, 83
+	offset: 3, 2
+	index: -1
+h2_22
+	rotate: true
+	xy: 2, 435
+	size: 70, 81
+	orig: 76, 83
+	offset: 3, 2
+	index: -1
+h2_20
+	rotate: false
+	xy: 166, 364
+	size: 70, 81
+	orig: 76, 83
+	offset: 3, 2
+	index: -1
+
+asset/spine/bthaxCard_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h2_28
+	rotate: true
+	xy: 911, 897
+	size: 72, 81
+	orig: 76, 83
+	offset: 1, 2
+	index: -1
+h2_16
+	rotate: true
+	xy: 829, 892
+	size: 72, 81
+	orig: 76, 83
+	offset: 1, 2
+	index: -1
+h2_38
+	rotate: true
+	xy: 522, 948
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_34
+	rotate: true
+	xy: 358, 948
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_40
+	rotate: false
+	xy: 604, 922
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_42
+	rotate: false
+	xy: 679, 922
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_36
+	rotate: true
+	xy: 440, 948
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_44
+	rotate: false
+	xy: 754, 897
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_08
+	rotate: true
+	xy: 944, 678
+	size: 70, 77
+	orig: 76, 83
+	offset: 3, 6
+	index: -1
+h2_30
+	rotate: true
+	xy: 942, 824
+	size: 72, 79
+	orig: 76, 83
+	offset: 1, 4
+	index: -1
+h2_04
+	rotate: true
+	xy: 944, 536
+	size: 70, 77
+	orig: 76, 83
+	offset: 3, 6
+	index: -1
+h2_32
+	rotate: true
+	xy: 942, 749
+	size: 74, 79
+	orig: 76, 83
+	offset: 0, 4
+	index: -1
+h2_06
+	rotate: true
+	xy: 944, 607
+	size: 70, 77
+	orig: 76, 83
+	offset: 3, 6
+	index: -1
+
+asset/spine/bthaxCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_MXaxiuluo_004
+	rotate: true
+	xy: 672, 28
+	size: 38, 31
+	orig: 38, 31
+	offset: 0, 0
+	index: -1
+h2_56
+	rotate: true
+	xy: 869, 913
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_54
+	rotate: true
+	xy: 869, 838
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_50
+	rotate: true
+	xy: 918, 437
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+DDD_MXaxiuluo_010
+	rotate: false
+	xy: 682, 998
+	size: 27, 15
+	orig: 27, 15
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_011
+	rotate: true
+	xy: 920, 220
+	size: 66, 85
+	orig: 66, 85
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_012
+	rotate: false
+	xy: 920, 171
+	size: 99, 48
+	orig: 99, 48
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_013
+	rotate: true
+	xy: 710, 171
+	size: 190, 209
+	orig: 190, 209
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_014
+	rotate: true
+	xy: 869, 765
+	size: 72, 143
+	orig: 72, 143
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_015
+	rotate: true
+	xy: 717, 526
+	size: 38, 126
+	orig: 38, 128
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_016
+	rotate: true
+	xy: 710, 362
+	size: 163, 207
+	orig: 163, 207
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_017
+	rotate: true
+	xy: 381, 770
+	size: 240, 207
+	orig: 244, 207
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_018
+	rotate: true
+	xy: 710, 2
+	size: 168, 287
+	orig: 168, 287
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_019
+	rotate: true
+	xy: 2, 770
+	size: 243, 378
+	orig: 243, 378
+	offset: 0, 0
+	index: -1
+h2_46
+	rotate: true
+	xy: 920, 287
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_48
+	rotate: true
+	xy: 918, 362
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
+h2_26
+	rotate: false
+	xy: 951, 920
+	size: 70, 81
+	orig: 76, 83
+	offset: 3, 2
+	index: -1
+h2_24
+	rotate: false
+	xy: 951, 838
+	size: 70, 81
+	orig: 76, 83
+	offset: 3, 2
+	index: -1
+DDD_MXaxiuluo_009
+	rotate: false
+	xy: 653, 998
+	size: 28, 24
+	orig: 28, 24
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_008
+	rotate: false
+	xy: 672, 67
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_006
+	rotate: false
+	xy: 381, 1011
+	size: 26, 11
+	orig: 26, 11
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_005
+	rotate: false
+	xy: 589, 998
+	size: 33, 24
+	orig: 33, 24
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_003
+	rotate: true
+	xy: 672, 2
+	size: 25, 34
+	orig: 25, 34
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_002
+	rotate: true
+	xy: 672, 526
+	size: 50, 44
+	orig: 52, 44
+	offset: 2, 0
+	index: -1
+DDD_MXaxiuluo_001
+	rotate: false
+	xy: 589, 770
+	size: 101, 227
+	orig: 101, 227
+	offset: 0, 0
+	index: -1
+DDD_MXaxiuluo_007
+	rotate: true
+	xy: 623, 998
+	size: 24, 29
+	orig: 24, 29
+	offset: 0, 0
+	index: -1
+h2_52
+	rotate: true
+	xy: 918, 512
+	size: 74, 81
+	orig: 76, 83
+	offset: 0, 2
+	index: -1
