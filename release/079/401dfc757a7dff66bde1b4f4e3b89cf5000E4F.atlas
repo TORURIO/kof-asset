@@ -1,0 +1,201 @@
+
+asset/spine/heiaxiuRESK_common2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzlxfkax_bisha4_jdb_00039
+	rotate: false
+	xy: 270, 77
+	size: 124, 37
+	orig: 178, 53
+	offset: 27, 7
+	index: -1
+
+asset/spine/heiaxiuRESK_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzlxfkax_bisha4_jdb_00047
+	rotate: true
+	xy: 412, 715
+	size: 160, 49
+	orig: 178, 53
+	offset: 9, 2
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00045
+	rotate: true
+	xy: 452, 360
+	size: 154, 47
+	orig: 178, 53
+	offset: 12, 3
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00055
+	rotate: true
+	xy: 436, 179
+	size: 156, 53
+	orig: 178, 53
+	offset: 17, 0
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00043
+	rotate: true
+	xy: 500, 360
+	size: 152, 45
+	orig: 178, 53
+	offset: 13, 4
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00041
+	rotate: true
+	xy: 473, 2
+	size: 156, 47
+	orig: 178, 53
+	offset: 11, 2
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00049
+	rotate: true
+	xy: 462, 715
+	size: 160, 49
+	orig: 178, 53
+	offset: 9, 1
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00037
+	rotate: false
+	xy: 521, 132
+	size: 88, 25
+	orig: 178, 53
+	offset: 45, 13
+	index: -1
+
+asset/spine/heiaxiuRESK_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzlxfkax_bisha4_jdb_00051
+	rotate: false
+	xy: 718, 969
+	size: 172, 53
+	orig: 178, 53
+	offset: 3, 0
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00053
+	rotate: true
+	xy: 318, 862
+	size: 160, 51
+	orig: 178, 53
+	offset: 12, 1
+	index: -1
+effect/common/New_xzlxfkax_bisha4_jdb_00035
+	rotate: true
+	xy: 911, 391
+	size: 52, 15
+	orig: 178, 53
+	offset: 63, 18
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1
