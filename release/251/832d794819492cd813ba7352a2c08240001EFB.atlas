@@ -1,0 +1,473 @@
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/siren_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/DDD_siren_idlepose1youshoubi
+	rotate: true
+	xy: 229, 169
+	size: 43, 52
+	orig: 51, 60
+	offset: 3, 4
+	index: -1
+role/DDD_siren_idlezuojiao
+	rotate: false
+	xy: 292, 747
+	size: 28, 26
+	orig: 36, 34
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1ling1
+	rotate: true
+	xy: 574, 620
+	size: 31, 36
+	orig: 39, 44
+	offset: 4, 5
+	index: -1
+role/DDD_siren_idleyoujiao2
+	rotate: false
+	xy: 443, 652
+	size: 33, 26
+	orig: 41, 34
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyoujiao
+	rotate: false
+	xy: 228, 725
+	size: 32, 28
+	orig: 40, 36
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleling
+	rotate: true
+	xy: 298, 395
+	size: 35, 46
+	orig: 43, 54
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1zuojiao
+	rotate: false
+	xy: 477, 663
+	size: 31, 31
+	orig: 39, 39
+	offset: 3, 4
+	index: -1
+role/DDD_siren_idlepose1zuoshoubi
+	rotate: false
+	xy: 907, 234
+	size: 55, 38
+	orig: 63, 46
+	offset: 4, 5
+	index: -1
+role/DDD_siren_idletoufa8
+	rotate: true
+	xy: 798, 145
+	size: 41, 58
+	orig: 49, 66
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1bozi
+	rotate: false
+	xy: 96, 464
+	size: 45, 39
+	orig: 53, 47
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlezuojiao2
+	rotate: false
+	xy: 409, 661
+	size: 32, 31
+	orig: 40, 39
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa7
+	rotate: true
+	xy: 590, 253
+	size: 40, 54
+	orig: 48, 62
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1zuojiao2
+	rotate: false
+	xy: 43, 623
+	size: 39, 29
+	orig: 47, 37
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlezuoshou
+	rotate: false
+	xy: 637, 568
+	size: 24, 38
+	orig: 32, 46
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1kua
+	rotate: false
+	xy: 859, 2
+	size: 59, 44
+	orig: 67, 52
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyoubi
+	rotate: true
+	xy: 528, 274
+	size: 28, 54
+	orig: 36, 62
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1toufa3
+	rotate: true
+	xy: 723, 180
+	size: 22, 14
+	orig: 30, 22
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1toufa6
+	rotate: true
+	xy: 50, 375
+	size: 37, 47
+	orig: 45, 55
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1toufa4
+	rotate: false
+	xy: 611, 651
+	size: 24, 28
+	orig: 32, 36
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlezuoshoubi
+	rotate: false
+	xy: 2, 356
+	size: 47, 40
+	orig: 55, 48
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa6
+	rotate: true
+	xy: 851, 210
+	size: 42, 55
+	orig: 50, 63
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyoushoubi
+	rotate: true
+	xy: 203, 367
+	size: 31, 47
+	orig: 39, 55
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1youxiaotui
+	rotate: true
+	xy: 795, 187
+	size: 46, 55
+	orig: 54, 63
+	offset: 4, 4
+	index: -1
+
+asset/spine/siren_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/DDD_siren_idlelingdai
+	rotate: true
+	xy: 220, 641
+	size: 19, 58
+	orig: 27, 66
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1youshou
+	rotate: false
+	xy: 961, 1001
+	size: 43, 21
+	orig: 51, 29
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1zuoxiaotui
+	rotate: true
+	xy: 618, 393
+	size: 56, 66
+	orig: 64, 74
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlezuoxiaotui
+	rotate: true
+	xy: 958, 543
+	size: 38, 62
+	orig: 46, 70
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1yaodai
+	rotate: false
+	xy: 557, 1013
+	size: 57, 9
+	orig: 65, 17
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletou
+	rotate: true
+	xy: 884, 58
+	size: 53, 64
+	orig: 61, 72
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlekua
+	rotate: true
+	xy: 575, 450
+	size: 69, 41
+	orig: 77, 49
+	offset: 3, 4
+	index: -1
+role/DDD_siren_idlezuodatui
+	rotate: true
+	xy: 959, 112
+	size: 47, 63
+	orig: 55, 71
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa4
+	rotate: true
+	xy: 917, 573
+	size: 17, 10
+	orig: 25, 18
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyoushou
+	rotate: true
+	xy: 272, 303
+	size: 19, 31
+	orig: 27, 39
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1toufa7
+	rotate: false
+	xy: 743, 727
+	size: 10, 12
+	orig: 18, 20
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyouxiaotui
+	rotate: true
+	xy: 547, 289
+	size: 33, 65
+	orig: 41, 73
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyifu1b
+	rotate: false
+	xy: 2, 339
+	size: 63, 110
+	orig: 71, 118
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyoudatui
+	rotate: true
+	xy: 958, 582
+	size: 35, 62
+	orig: 43, 70
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa1
+	rotate: false
+	xy: 1008, 791
+	size: 14, 28
+	orig: 22, 36
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa2
+	rotate: true
+	xy: 321, 409
+	size: 9, 10
+	orig: 17, 18
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa3
+	rotate: false
+	xy: 941, 468
+	size: 17, 11
+	orig: 25, 19
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyaodaikou
+	rotate: true
+	xy: 765, 727
+	size: 11, 10
+	orig: 19, 18
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idletoufa5
+	rotate: false
+	xy: 656, 728
+	size: 24, 12
+	orig: 32, 20
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1lingdai
+	rotate: true
+	xy: 457, 531
+	size: 12, 58
+	orig: 20, 66
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1zuodatui
+	rotate: false
+	xy: 329, 106
+	size: 52, 75
+	orig: 60, 83
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlezuobi
+	rotate: true
+	xy: 690, 807
+	size: 33, 62
+	orig: 41, 70
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1youbi
+	rotate: false
+	xy: 785, 544
+	size: 45, 65
+	orig: 53, 73
+	offset: 4, 5
+	index: -1
+role/DDD_siren_idleshenti
+	rotate: false
+	xy: 241, 661
+	size: 67, 93
+	orig: 75, 101
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1erduo
+	rotate: true
+	xy: 172, 644
+	size: 16, 18
+	orig: 24, 26
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1tou
+	rotate: false
+	xy: 683, 741
+	size: 63, 65
+	orig: 77, 73
+	offset: 10, 4
+	index: -1
+role/DDD_siren_idlepose1toufa2
+	rotate: true
+	xy: 781, 900
+	size: 18, 14
+	orig: 26, 22
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1toufa1
+	rotate: true
+	xy: 240, 303
+	size: 19, 31
+	orig: 27, 39
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1zuobi
+	rotate: true
+	xy: 418, 628
+	size: 32, 68
+	orig: 40, 76
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1toufa5
+	rotate: false
+	xy: 554, 395
+	size: 63, 54
+	orig: 71, 62
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1yifu1b
+	rotate: false
+	xy: 2, 115
+	size: 63, 112
+	orig: 71, 120
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1youdatui
+	rotate: true
+	xy: 876, 390
+	size: 59, 64
+	orig: 67, 72
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyaodai
+	rotate: false
+	xy: 494, 1013
+	size: 62, 9
+	orig: 70, 17
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyifu2
+	rotate: false
+	xy: 2, 863
+	size: 31, 98
+	orig: 39, 106
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyifu1
+	rotate: false
+	xy: 2, 228
+	size: 63, 110
+	orig: 71, 118
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1shenti
+	rotate: false
+	xy: 665, 841
+	size: 59, 78
+	orig: 67, 86
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1yifu2
+	rotate: false
+	xy: 164, 450
+	size: 43, 96
+	orig: 51, 104
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleyifu2b
+	rotate: false
+	xy: 34, 863
+	size: 31, 98
+	orig: 39, 106
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1yifu1
+	rotate: false
+	xy: 2, 2
+	size: 63, 112
+	orig: 71, 120
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idleerduo
+	rotate: false
+	xy: 1008, 820
+	size: 14, 23
+	orig: 22, 31
+	offset: 4, 4
+	index: -1
+role/DDD_siren_idlepose1zuoshou
+	rotate: false
+	xy: 700, 1000
+	size: 44, 22
+	orig: 54, 30
+	offset: 5, 4
+	index: -1

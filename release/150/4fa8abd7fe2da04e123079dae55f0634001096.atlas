@@ -1,0 +1,250 @@
+
+asset/spine/bssrCard_role1.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/shiren_kb_bianshen_lh_28
+	rotate: false
+	xy: 2, 2
+	size: 399, 386
+	orig: 401, 388
+	offset: 1, 1
+	index: -1
+role/lizi
+	rotate: false
+	xy: 2, 389
+	size: 288, 288
+	orig: 500, 500
+	offset: 106, 106
+	index: -1
+
+asset/spine/bssrCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/shiren_kb_bianshen_lh_22
+	rotate: false
+	xy: 695, 982
+	size: 42, 40
+	orig: 44, 42
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_23
+	rotate: true
+	xy: 2, 856
+	size: 160, 92
+	orig: 162, 94
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_20
+	rotate: false
+	xy: 647, 359
+	size: 85, 42
+	orig: 87, 44
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_21
+	rotate: false
+	xy: 647, 103
+	size: 113, 86
+	orig: 115, 88
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_26
+	rotate: false
+	xy: 264, 856
+	size: 216, 144
+	orig: 218, 146
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_27
+	rotate: false
+	xy: 738, 282
+	size: 284, 321
+	orig: 286, 323
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_24
+	rotate: false
+	xy: 95, 856
+	size: 168, 145
+	orig: 170, 147
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_25
+	rotate: true
+	xy: 647, 276
+	size: 82, 90
+	orig: 84, 92
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_9
+	rotate: false
+	xy: 738, 982
+	size: 27, 40
+	orig: 29, 42
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_8
+	rotate: false
+	xy: 761, 131
+	size: 44, 47
+	orig: 46, 49
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_3
+	rotate: false
+	xy: 710, 402
+	size: 25, 42
+	orig: 27, 44
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_2
+	rotate: true
+	xy: 766, 982
+	size: 39, 41
+	orig: 41, 43
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_1
+	rotate: false
+	xy: 605, 982
+	size: 89, 40
+	orig: 91, 42
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_7
+	rotate: true
+	xy: 768, 2
+	size: 52, 34
+	orig: 54, 36
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_6
+	rotate: true
+	xy: 706, 451
+	size: 43, 28
+	orig: 45, 30
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_5
+	rotate: true
+	xy: 139, 1002
+	size: 19, 39
+	orig: 21, 41
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_4
+	rotate: true
+	xy: 757, 248
+	size: 33, 49
+	orig: 35, 51
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_31
+	rotate: true
+	xy: 647, 190
+	size: 85, 109
+	orig: 87, 111
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_30
+	rotate: false
+	xy: 808, 2
+	size: 199, 278
+	orig: 201, 280
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_33
+	rotate: true
+	xy: 481, 984
+	size: 38, 49
+	orig: 40, 51
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_32
+	rotate: true
+	xy: 604, 856
+	size: 125, 186
+	orig: 127, 188
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_34
+	rotate: false
+	xy: 2, 2
+	size: 644, 853
+	orig: 646, 855
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_13
+	rotate: true
+	xy: 647, 451
+	size: 32, 58
+	orig: 34, 60
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_19
+	rotate: true
+	xy: 481, 856
+	size: 127, 122
+	orig: 129, 124
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_18
+	rotate: false
+	xy: 647, 402
+	size: 62, 48
+	orig: 64, 50
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_17
+	rotate: false
+	xy: 768, 55
+	size: 33, 75
+	orig: 35, 77
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_16
+	rotate: false
+	xy: 647, 2
+	size: 120, 100
+	orig: 122, 102
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_15
+	rotate: true
+	xy: 179, 1002
+	size: 18, 41
+	orig: 20, 43
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_14
+	rotate: true
+	xy: 95, 1002
+	size: 19, 43
+	orig: 21, 45
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_12
+	rotate: false
+	xy: 761, 179
+	size: 43, 68
+	orig: 45, 70
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_11
+	rotate: false
+	xy: 531, 984
+	size: 73, 37
+	orig: 75, 39
+	offset: 1, 1
+	index: -1
+role/shiren_kb_bianshen_lh_10
+	rotate: true
+	xy: 264, 1001
+	size: 21, 41
+	orig: 23, 43
+	offset: 1, 1
+	index: -1

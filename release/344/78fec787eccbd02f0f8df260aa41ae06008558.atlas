@@ -1,0 +1,1727 @@
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/siren_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_xiaojineng_yan_00056
+	rotate: false
+	xy: 954, 426
+	size: 68, 26
+	orig: 90, 28
+	offset: 22, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00060
+	rotate: true
+	xy: 809, 2
+	size: 272, 210
+	orig: 278, 214
+	offset: 2, 3
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00032
+	rotate: true
+	xy: 673, 510
+	size: 67, 96
+	orig: 79, 100
+	offset: 8, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00031
+	rotate: true
+	xy: 673, 510
+	size: 67, 96
+	orig: 79, 100
+	offset: 8, 2
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00176
+	rotate: true
+	xy: 809, 838
+	size: 169, 83
+	orig: 175, 193
+	offset: 6, 53
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00058
+	rotate: false
+	xy: 954, 453
+	size: 68, 26
+	orig: 90, 28
+	offset: 22, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00032
+	rotate: true
+	xy: 721, 304
+	size: 100, 85
+	orig: 148, 149
+	offset: 26, 25
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00024
+	rotate: false
+	xy: 695, 244
+	size: 110, 30
+	orig: 120, 32
+	offset: 0, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00027
+	rotate: false
+	xy: 566, 411
+	size: 106, 22
+	orig: 120, 32
+	offset: 11, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00207
+	rotate: false
+	xy: 180, 2
+	size: 173, 424
+	orig: 269, 436
+	offset: 56, 11
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00206
+	rotate: false
+	xy: 2, 2
+	size: 177, 436
+	orig: 269, 436
+	offset: 56, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00205
+	rotate: false
+	xy: 2, 439
+	size: 211, 428
+	orig: 269, 436
+	offset: 21, 4
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00204
+	rotate: false
+	xy: 214, 439
+	size: 209, 418
+	orig: 269, 436
+	offset: 22, 9
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00203
+	rotate: false
+	xy: 354, 2
+	size: 207, 408
+	orig: 269, 436
+	offset: 22, 14
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00178
+	rotate: true
+	xy: 643, 275
+	size: 135, 77
+	orig: 175, 193
+	offset: 26, 58
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00208
+	rotate: false
+	xy: 424, 435
+	size: 165, 402
+	orig: 269, 436
+	offset: 57, 28
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00029
+	rotate: true
+	xy: 562, 181
+	size: 93, 37
+	orig: 163, 39
+	offset: 1, 1
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00053
+	rotate: true
+	xy: 600, 181
+	size: 28, 25
+	orig: 114, 79
+	offset: 37, 13
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00052
+	rotate: true
+	xy: 600, 210
+	size: 26, 25
+	orig: 114, 79
+	offset: 38, 13
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00055
+	rotate: false
+	xy: 556, 838
+	size: 252, 182
+	orig: 278, 214
+	offset: 16, 16
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00054
+	rotate: true
+	xy: 893, 776
+	size: 198, 128
+	orig: 278, 214
+	offset: 47, 42
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00036
+	rotate: false
+	xy: 809, 426
+	size: 114, 55
+	orig: 114, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00168
+	rotate: false
+	xy: 422, 858
+	size: 133, 157
+	orig: 175, 193
+	offset: 21, 30
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00070
+	rotate: false
+	xy: 721, 275
+	size: 86, 28
+	orig: 90, 28
+	offset: 1, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00032
+	rotate: true
+	xy: 220, 858
+	size: 163, 39
+	orig: 163, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00033
+	rotate: true
+	xy: 260, 858
+	size: 163, 39
+	orig: 163, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00041
+	rotate: false
+	xy: 374, 427
+	size: 53, 7
+	orig: 123, 53
+	offset: 38, 31
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00193
+	rotate: false
+	xy: 300, 858
+	size: 121, 158
+	orig: 269, 436
+	offset: 51, 139
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00196
+	rotate: false
+	xy: 771, 483
+	size: 251, 292
+	orig: 269, 436
+	offset: 4, 72
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00188
+	rotate: false
+	xy: 695, 196
+	size: 113, 47
+	orig: 175, 193
+	offset: 30, 64
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00180
+	rotate: false
+	xy: 673, 411
+	size: 135, 71
+	orig: 175, 193
+	offset: 26, 58
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00031
+	rotate: true
+	xy: 562, 2
+	size: 139, 37
+	orig: 163, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00021
+	rotate: false
+	xy: 633, 125
+	size: 16, 16
+	orig: 144, 148
+	offset: 53, 70
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00020
+	rotate: false
+	xy: 600, 125
+	size: 32, 16
+	orig: 144, 148
+	offset: 52, 70
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00023
+	rotate: false
+	xy: 359, 427
+	size: 14, 10
+	orig: 144, 148
+	offset: 54, 75
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00022
+	rotate: true
+	xy: 650, 125
+	size: 16, 12
+	orig: 144, 148
+	offset: 53, 74
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00037
+	rotate: false
+	xy: 590, 434
+	size: 82, 147
+	orig: 148, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00021
+	rotate: true
+	xy: 542, 838
+	size: 17, 12
+	orig: 171, 42
+	offset: 0, 21
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00022
+	rotate: true
+	xy: 600, 237
+	size: 37, 22
+	orig: 171, 42
+	offset: 1, 11
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00064
+	rotate: true
+	xy: 590, 582
+	size: 254, 180
+	orig: 278, 214
+	offset: 20, 16
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00019
+	rotate: true
+	xy: 562, 142
+	size: 38, 32
+	orig: 144, 148
+	offset: 50, 68
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00027
+	rotate: false
+	xy: 663, 125
+	size: 49, 15
+	orig: 163, 39
+	offset: 0, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00026
+	rotate: false
+	xy: 456, 411
+	size: 109, 22
+	orig: 171, 42
+	offset: 21, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00068
+	rotate: false
+	xy: 19, 868
+	size: 200, 152
+	orig: 278, 214
+	offset: 69, 31
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00039
+	rotate: false
+	xy: 424, 838
+	size: 35, 19
+	orig: 123, 53
+	offset: 44, 20
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00066
+	rotate: false
+	xy: 809, 275
+	size: 210, 150
+	orig: 278, 214
+	offset: 68, 32
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00186
+	rotate: false
+	xy: 771, 776
+	size: 121, 61
+	orig: 175, 193
+	offset: 25, 62
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00023
+	rotate: false
+	xy: 354, 411
+	size: 101, 15
+	orig: 221, 17
+	offset: 7, 1
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00035
+	rotate: false
+	xy: 562, 275
+	size: 80, 135
+	orig: 148, 149
+	offset: 4, 4
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00025
+	rotate: false
+	xy: 673, 483
+	size: 97, 26
+	orig: 171, 42
+	offset: 10, 0
+	index: -1
+effect/common/ld_jiji_liumenbisha_tzlg_00060
+	rotate: false
+	xy: 180, 427
+	size: 102, 11
+	orig: 102, 11
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00038
+	rotate: false
+	xy: 893, 975
+	size: 107, 47
+	orig: 123, 53
+	offset: 8, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00054
+	rotate: false
+	xy: 214, 858
+	size: 5, 5
+	orig: 123, 53
+	offset: 83, 40
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00011
+	rotate: true
+	xy: 600, 2
+	size: 122, 120
+	orig: 144, 148
+	offset: 6, 17
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00048
+	rotate: false
+	xy: 626, 196
+	size: 68, 78
+	orig: 70, 82
+	offset: 2, 1
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00038
+	rotate: false
+	xy: 626, 142
+	size: 94, 53
+	orig: 114, 79
+	offset: 11, 3
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00034
+	rotate: true
+	xy: 721, 92
+	size: 88, 87
+	orig: 158, 149
+	offset: 32, 31
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00029
+	rotate: true
+	xy: 1001, 975
+	size: 27, 20
+	orig: 171, 42
+	offset: 144, 22
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00040
+	rotate: true
+	xy: 924, 426
+	size: 55, 29
+	orig: 123, 53
+	offset: 34, 13
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00020
+	rotate: false
+	xy: 335, 427
+	size: 23, 11
+	orig: 221, 17
+	offset: 0, 3
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00021
+	rotate: false
+	xy: 283, 427
+	size: 51, 11
+	orig: 221, 17
+	offset: 0, 3
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00027
+	rotate: false
+	xy: 460, 838
+	size: 81, 17
+	orig: 221, 17
+	offset: 129, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00018
+	rotate: true
+	xy: 595, 142
+	size: 38, 30
+	orig: 144, 148
+	offset: 50, 70
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00164
+	rotate: false
+	xy: 721, 2
+	size: 87, 89
+	orig: 175, 193
+	offset: 44, 44
+	index: -1
+
+asset/spine/siren_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_xiaojineng_bz_00062
+	rotate: false
+	xy: 750, 2
+	size: 268, 214
+	orig: 278, 214
+	offset: 1, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00026
+	rotate: true
+	xy: 996, 658
+	size: 96, 26
+	orig: 120, 32
+	offset: 11, 1
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00038
+	rotate: false
+	xy: 905, 936
+	size: 82, 85
+	orig: 148, 149
+	offset: 0, 62
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00201
+	rotate: false
+	xy: 2, 399
+	size: 243, 386
+	orig: 269, 436
+	offset: 26, 25
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00200
+	rotate: false
+	xy: 244, 2
+	size: 243, 374
+	orig: 269, 436
+	offset: 25, 31
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00015
+	rotate: false
+	xy: 840, 740
+	size: 88, 80
+	orig: 144, 148
+	offset: 51, 63
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00174
+	rotate: false
+	xy: 735, 882
+	size: 169, 139
+	orig: 175, 193
+	offset: 6, 53
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00058
+	rotate: false
+	xy: 488, 2
+	size: 260, 204
+	orig: 278, 214
+	offset: 5, 5
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00027
+	rotate: false
+	xy: 847, 821
+	size: 49, 60
+	orig: 79, 100
+	offset: 1, 21
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00056
+	rotate: true
+	xy: 824, 217
+	size: 268, 198
+	orig: 278, 214
+	offset: 8, 8
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00034
+	rotate: true
+	xy: 607, 882
+	size: 140, 127
+	orig: 148, 149
+	offset: 8, 8
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00028
+	rotate: true
+	xy: 750, 395
+	size: 92, 73
+	orig: 114, 79
+	offset: 9, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_dzbd_00181
+	rotate: false
+	xy: 2, 786
+	size: 251, 233
+	orig: 301, 233
+	offset: 50, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00197
+	rotate: false
+	xy: 486, 395
+	size: 263, 302
+	orig: 269, 436
+	offset: 0, 67
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00194
+	rotate: true
+	xy: 494, 217
+	size: 177, 218
+	orig: 269, 436
+	offset: 31, 109
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00199
+	rotate: false
+	xy: 246, 399
+	size: 239, 364
+	orig: 269, 436
+	offset: 26, 36
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00198
+	rotate: true
+	xy: 254, 782
+	size: 237, 352
+	orig: 269, 436
+	offset: 28, 42
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00182
+	rotate: false
+	xy: 486, 698
+	size: 121, 65
+	orig: 175, 193
+	offset: 25, 62
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00036
+	rotate: false
+	xy: 304, 377
+	size: 55, 21
+	orig: 163, 39
+	offset: 108, 3
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00035
+	rotate: true
+	xy: 947, 658
+	size: 81, 37
+	orig: 163, 39
+	offset: 81, 2
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00035
+	rotate: true
+	xy: 996, 778
+	size: 35, 15
+	orig: 123, 53
+	offset: 44, 20
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00202
+	rotate: false
+	xy: 2, 2
+	size: 241, 396
+	orig: 269, 436
+	offset: 22, 20
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00140
+	rotate: false
+	xy: 824, 486
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00066
+	rotate: true
+	xy: 988, 936
+	size: 84, 28
+	orig: 90, 28
+	offset: 6, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00016
+	rotate: false
+	xy: 749, 740
+	size: 90, 80
+	orig: 144, 148
+	offset: 54, 67
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00048
+	rotate: true
+	xy: 713, 207
+	size: 78, 35
+	orig: 114, 79
+	offset: 15, 6
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00013
+	rotate: false
+	xy: 636, 698
+	size: 112, 122
+	orig: 144, 148
+	offset: 27, 21
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_dzbd_00182
+	rotate: false
+	xy: 2, 786
+	size: 251, 233
+	orig: 301, 233
+	offset: 50, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_dzbd_00183
+	rotate: false
+	xy: 2, 786
+	size: 251, 233
+	orig: 301, 233
+	offset: 50, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00008
+	rotate: false
+	xy: 905, 821
+	size: 116, 114
+	orig: 144, 148
+	offset: 12, 29
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00005
+	rotate: true
+	xy: 713, 286
+	size: 108, 110
+	orig: 144, 148
+	offset: 16, 26
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00048
+	rotate: true
+	xy: 608, 698
+	size: 65, 27
+	orig: 123, 53
+	offset: 29, 22
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00043
+	rotate: true
+	xy: 711, 821
+	size: 60, 67
+	orig: 158, 149
+	offset: 98, 41
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00042
+	rotate: true
+	xy: 750, 615
+	size: 124, 69
+	orig: 158, 149
+	offset: 33, 41
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00041
+	rotate: true
+	xy: 750, 488
+	size: 126, 71
+	orig: 158, 149
+	offset: 32, 39
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00040
+	rotate: false
+	xy: 820, 658
+	size: 126, 81
+	orig: 158, 149
+	offset: 32, 29
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00082
+	rotate: true
+	xy: 996, 755
+	size: 22, 24
+	orig: 278, 214
+	offset: 100, 93
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00044
+	rotate: true
+	xy: 779, 821
+	size: 60, 67
+	orig: 158, 149
+	offset: 98, 41
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00027
+	rotate: true
+	xy: 607, 780
+	size: 101, 28
+	orig: 171, 42
+	offset: 50, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00052
+	rotate: false
+	xy: 244, 377
+	size: 59, 21
+	orig: 123, 53
+	offset: 34, 24
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00047
+	rotate: false
+	xy: 929, 740
+	size: 66, 80
+	orig: 70, 82
+	offset: 0, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00044
+	rotate: true
+	xy: 636, 821
+	size: 60, 74
+	orig: 70, 82
+	offset: 6, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00028
+	rotate: false
+	xy: 490, 764
+	size: 39, 17
+	orig: 221, 17
+	offset: 182, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00022
+	rotate: false
+	xy: 530, 764
+	size: 79, 15
+	orig: 221, 17
+	offset: 1, 1
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00024
+	rotate: false
+	xy: 370, 764
+	size: 119, 17
+	orig: 221, 17
+	offset: 16, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00025
+	rotate: false
+	xy: 360, 377
+	size: 133, 17
+	orig: 221, 17
+	offset: 31, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd_00026
+	rotate: false
+	xy: 246, 764
+	size: 123, 17
+	orig: 221, 17
+	offset: 69, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00052
+	rotate: true
+	xy: 749, 217
+	size: 62, 74
+	orig: 70, 82
+	offset: 7, 0
+	index: -1
+
+asset/spine/siren_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_xiaojineng_yan_00054
+	rotate: false
+	xy: 933, 645
+	size: 88, 28
+	orig: 90, 28
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00034
+	rotate: false
+	xy: 937, 425
+	size: 69, 100
+	orig: 79, 100
+	offset: 10, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00033
+	rotate: false
+	xy: 937, 425
+	size: 69, 100
+	orig: 79, 100
+	offset: 10, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00030
+	rotate: false
+	xy: 305, 479
+	size: 69, 84
+	orig: 79, 100
+	offset: 0, 9
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00026
+	rotate: true
+	xy: 375, 479
+	size: 84, 63
+	orig: 114, 79
+	offset: 12, 5
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00023
+	rotate: true
+	xy: 618, 956
+	size: 66, 28
+	orig: 120, 32
+	offset: 54, 4
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00025
+	rotate: true
+	xy: 274, 480
+	size: 82, 30
+	orig: 120, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00024
+	rotate: true
+	xy: 576, 199
+	size: 79, 30
+	orig: 171, 42
+	offset: 5, 1
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00026
+	rotate: true
+	xy: 795, 960
+	size: 41, 48
+	orig: 79, 100
+	offset: 1, 26
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00050
+	rotate: false
+	xy: 937, 278
+	size: 74, 31
+	orig: 114, 79
+	offset: 17, 7
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00165
+	rotate: false
+	xy: 847, 703
+	size: 175, 175
+	orig: 175, 193
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00167
+	rotate: true
+	xy: 844, 879
+	size: 133, 155
+	orig: 175, 193
+	offset: 21, 29
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00130
+	rotate: true
+	xy: 402, 2
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00096
+	rotate: false
+	xy: 742, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00028
+	rotate: false
+	xy: 778, 730
+	size: 67, 35
+	orig: 163, 39
+	offset: 0, 2
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00031
+	rotate: true
+	xy: 515, 956
+	size: 66, 57
+	orig: 148, 149
+	offset: 40, 45
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00014
+	rotate: false
+	xy: 709, 782
+	size: 134, 148
+	orig: 144, 148
+	offset: 10, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00136
+	rotate: true
+	xy: 448, 280
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00134
+	rotate: true
+	xy: 344, 761
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00036
+	rotate: true
+	xy: 230, 199
+	size: 82, 143
+	orig: 148, 149
+	offset: 1, 1
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00072
+	rotate: true
+	xy: 374, 199
+	size: 80, 28
+	orig: 90, 28
+	offset: 3, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00074
+	rotate: true
+	xy: 403, 199
+	size: 80, 28
+	orig: 90, 28
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00075
+	rotate: true
+	xy: 432, 199
+	size: 80, 28
+	orig: 90, 28
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00040
+	rotate: false
+	xy: 683, 730
+	size: 94, 51
+	orig: 114, 79
+	offset: 11, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00046
+	rotate: true
+	xy: 230, 480
+	size: 82, 43
+	orig: 114, 79
+	offset: 13, 5
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00098
+	rotate: false
+	xy: 742, 174
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00040
+	rotate: false
+	xy: 618, 332
+	size: 123, 53
+	orig: 123, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00028
+	rotate: true
+	xy: 616, 730
+	size: 53, 66
+	orig: 79, 100
+	offset: 1, 18
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_zhbd_00195
+	rotate: false
+	xy: 2, 2
+	size: 227, 280
+	orig: 269, 436
+	offset: 10, 78
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00138
+	rotate: true
+	xy: 572, 2
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00132
+	rotate: true
+	xy: 344, 564
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00184
+	rotate: false
+	xy: 284, 958
+	size: 121, 63
+	orig: 175, 193
+	offset: 25, 62
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00039
+	rotate: false
+	xy: 618, 578
+	size: 119, 53
+	orig: 123, 53
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00034
+	rotate: false
+	xy: 735, 690
+	size: 111, 39
+	orig: 163, 39
+	offset: 52, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00037
+	rotate: true
+	xy: 146, 480
+	size: 83, 39
+	orig: 123, 53
+	offset: 20, 7
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd_00036
+	rotate: true
+	xy: 767, 960
+	size: 55, 27
+	orig: 123, 53
+	offset: 34, 13
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00128
+	rotate: true
+	xy: 278, 282
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00068
+	rotate: true
+	xy: 738, 931
+	size: 88, 28
+	orig: 90, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00064
+	rotate: true
+	xy: 709, 931
+	size: 88, 28
+	orig: 90, 28
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00124
+	rotate: true
+	xy: 174, 564
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00062
+	rotate: false
+	xy: 933, 674
+	size: 88, 28
+	orig: 90, 28
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_yan_00060
+	rotate: true
+	xy: 439, 479
+	size: 80, 26
+	orig: 90, 28
+	offset: 10, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00023
+	rotate: false
+	xy: 647, 956
+	size: 61, 28
+	orig: 171, 42
+	offset: 0, 4
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_dd2_00028
+	rotate: false
+	xy: 767, 931
+	size: 63, 28
+	orig: 171, 42
+	offset: 101, 9
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00010
+	rotate: true
+	xy: 517, 477
+	size: 106, 100
+	orig: 144, 148
+	offset: 20, 31
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_dzbd_00180
+	rotate: true
+	xy: 618, 386
+	size: 137, 119
+	orig: 301, 233
+	offset: 34, 48
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttbd_00029
+	rotate: true
+	xy: 406, 958
+	size: 63, 78
+	orig: 79, 100
+	offset: 1, 12
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00034
+	rotate: true
+	xy: 937, 310
+	size: 114, 69
+	orig: 114, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00003
+	rotate: false
+	xy: 515, 584
+	size: 100, 100
+	orig: 144, 148
+	offset: 21, 37
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00006
+	rotate: false
+	xy: 515, 685
+	size: 100, 98
+	orig: 144, 148
+	offset: 20, 34
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00044
+	rotate: true
+	xy: 186, 480
+	size: 82, 43
+	orig: 114, 79
+	offset: 13, 5
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00102
+	rotate: true
+	xy: 106, 283
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00100
+	rotate: false
+	xy: 742, 346
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00106
+	rotate: false
+	xy: 738, 518
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00104
+	rotate: true
+	xy: 230, 2
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00108
+	rotate: false
+	xy: 514, 784
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_dzbd_00179
+	rotate: false
+	xy: 670, 199
+	size: 69, 53
+	orig: 301, 233
+	offset: 34, 74
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00050
+	rotate: false
+	xy: 647, 985
+	size: 61, 27
+	orig: 123, 53
+	offset: 32, 23
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00045
+	rotate: false
+	xy: 607, 199
+	size: 62, 78
+	orig: 70, 82
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00046
+	rotate: true
+	xy: 2, 958
+	size: 64, 78
+	orig: 70, 82
+	offset: 0, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00049
+	rotate: true
+	xy: 81, 958
+	size: 64, 78
+	orig: 70, 82
+	offset: 5, 2
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00038
+	rotate: false
+	xy: 616, 632
+	size: 118, 97
+	orig: 158, 149
+	offset: 35, 23
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00039
+	rotate: true
+	xy: 933, 526
+	size: 118, 89
+	orig: 158, 149
+	offset: 35, 27
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00041
+	rotate: true
+	xy: 106, 480
+	size: 83, 39
+	orig: 123, 53
+	offset: 20, 7
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00043
+	rotate: false
+	xy: 618, 524
+	size: 119, 53
+	orig: 123, 53
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00044
+	rotate: false
+	xy: 618, 278
+	size: 123, 53
+	orig: 123, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00046
+	rotate: true
+	xy: 485, 958
+	size: 63, 29
+	orig: 123, 53
+	offset: 31, 22
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00032
+	rotate: false
+	xy: 461, 199
+	size: 114, 79
+	orig: 114, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00030
+	rotate: true
+	xy: 937, 53
+	size: 114, 77
+	orig: 114, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00086
+	rotate: true
+	xy: 2, 761
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00084
+	rotate: true
+	xy: 2, 564
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00053
+	rotate: false
+	xy: 466, 477
+	size: 50, 78
+	orig: 70, 82
+	offset: 9, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00051
+	rotate: true
+	xy: 160, 958
+	size: 64, 78
+	orig: 70, 82
+	offset: 5, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00050
+	rotate: true
+	xy: 937, 168
+	size: 62, 76
+	orig: 70, 82
+	offset: 7, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00057
+	rotate: false
+	xy: 239, 958
+	size: 44, 64
+	orig: 70, 82
+	offset: 23, 17
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00056
+	rotate: false
+	xy: 573, 956
+	size: 44, 66
+	orig: 70, 82
+	offset: 22, 15
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00055
+	rotate: true
+	xy: 937, 231
+	size: 46, 74
+	orig: 70, 82
+	offset: 19, 8
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00054
+	rotate: true
+	xy: 937, 2
+	size: 50, 78
+	orig: 70, 82
+	offset: 13, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00126
+	rotate: true
+	xy: 174, 761
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/siren_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_liumenbisha_zhbd_00172
+	rotate: true
+	xy: 2, 699
+	size: 169, 167
+	orig: 175, 193
+	offset: 6, 25
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00090
+	rotate: false
+	xy: 197, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00092
+	rotate: false
+	xy: 587, 342
+	size: 192, 171
+	orig: 196, 171
+	offset: 4, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00028
+	rotate: false
+	xy: 83, 665
+	size: 94, 26
+	orig: 120, 32
+	offset: 16, 3
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_ttw_00029
+	rotate: true
+	xy: 277, 547
+	size: 94, 26
+	orig: 120, 32
+	offset: 16, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00039
+	rotate: false
+	xy: 977, 2
+	size: 44, 47
+	orig: 148, 149
+	offset: 37, 102
+	index: -1
+effect/common/ld_jiji_liumenbisha2_zp_00179
+	rotate: false
+	xy: 950, 644
+	size: 54, 54
+	orig: 54, 54
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00170
+	rotate: false
+	xy: 780, 495
+	size: 169, 169
+	orig: 175, 193
+	offset: 6, 24
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00166
+	rotate: false
+	xy: 2, 344
+	size: 127, 155
+	orig: 175, 193
+	offset: 24, 28
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00033
+	rotate: true
+	xy: 257, 344
+	size: 126, 109
+	orig: 148, 149
+	offset: 14, 15
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00094
+	rotate: false
+	xy: 392, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00190
+	rotate: true
+	xy: 977, 143
+	size: 107, 43
+	orig: 175, 193
+	offset: 33, 66
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_zhbd_00192
+	rotate: false
+	xy: 977, 251
+	size: 41, 35
+	orig: 175, 193
+	offset: 61, 74
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00042
+	rotate: false
+	xy: 373, 461
+	size: 92, 47
+	orig: 114, 79
+	offset: 13, 2
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00074
+	rotate: false
+	xy: 2, 869
+	size: 128, 152
+	orig: 278, 214
+	offset: 73, 31
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00072
+	rotate: false
+	xy: 130, 344
+	size: 126, 152
+	orig: 278, 214
+	offset: 73, 31
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00076
+	rotate: false
+	xy: 131, 869
+	size: 128, 152
+	orig: 278, 214
+	offset: 74, 31
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00030
+	rotate: false
+	xy: 257, 471
+	size: 115, 37
+	orig: 163, 39
+	offset: 1, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_qtw_00037
+	rotate: false
+	xy: 43, 665
+	size: 39, 29
+	orig: 163, 39
+	offset: 124, 4
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00078
+	rotate: false
+	xy: 951, 438
+	size: 62, 150
+	orig: 278, 214
+	offset: 76, 31
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00120
+	rotate: false
+	xy: 197, 174
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00122
+	rotate: false
+	xy: 392, 174
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00017
+	rotate: false
+	xy: 2, 665
+	size: 40, 30
+	orig: 144, 148
+	offset: 49, 70
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00012
+	rotate: true
+	xy: 152, 514
+	size: 132, 124
+	orig: 144, 148
+	offset: 1, 16
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00114
+	rotate: false
+	xy: 587, 172
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00116
+	rotate: false
+	xy: 782, 172
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00110
+	rotate: false
+	xy: 587, 2
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00112
+	rotate: false
+	xy: 782, 2
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00118
+	rotate: false
+	xy: 2, 174
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00009
+	rotate: false
+	xy: 170, 699
+	size: 104, 108
+	orig: 144, 148
+	offset: 21, 32
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00002
+	rotate: false
+	xy: 467, 442
+	size: 110, 104
+	orig: 144, 148
+	offset: 15, 31
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00007
+	rotate: false
+	xy: 578, 514
+	size: 106, 104
+	orig: 144, 148
+	offset: 18, 35
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_jq_00004
+	rotate: false
+	xy: 304, 509
+	size: 106, 104
+	orig: 144, 148
+	offset: 19, 37
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00080
+	rotate: false
+	xy: 977, 287
+	size: 40, 150
+	orig: 278, 214
+	offset: 88, 31
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bz_00070
+	rotate: false
+	xy: 780, 342
+	size: 170, 152
+	orig: 278, 214
+	offset: 75, 31
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00036
+	rotate: false
+	xy: 467, 344
+	size: 116, 97
+	orig: 158, 149
+	offset: 34, 22
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00037
+	rotate: true
+	xy: 367, 344
+	size: 116, 99
+	orig: 158, 149
+	offset: 34, 21
+	index: -1
+effect/common/New_ld_jiji_putongbisha_bd_00035
+	rotate: true
+	xy: 2, 514
+	size: 150, 149
+	orig: 158, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_qtzbd2_00042
+	rotate: false
+	xy: 178, 647
+	size: 107, 47
+	orig: 123, 53
+	offset: 8, 3
+	index: -1
+effect/common/New_ld_jiji_liumenbisha_tgh_00040
+	rotate: false
+	xy: 977, 50
+	size: 44, 47
+	orig: 148, 149
+	offset: 37, 102
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00088
+	rotate: false
+	xy: 2, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_xiaojineng_bsf_00058
+	rotate: false
+	xy: 977, 98
+	size: 44, 44
+	orig: 70, 82
+	offset: 24, 34
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1

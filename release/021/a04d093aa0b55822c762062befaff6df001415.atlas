@@ -1,0 +1,271 @@
+
+asset/spine/xiaotao_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ldxt_xiaojineng_dbdl_00068
+	rotate: true
+	xy: 477, 863
+	size: 84, 29
+	orig: 94, 35
+	offset: 5, 3
+	index: -1
+effect/common/New_ldxt_putongbisha__xwzs_s1_00013
+	rotate: false
+	xy: 2, 704
+	size: 91, 33
+	orig: 91, 33
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_putongbisha__xwzs_s1_00019
+	rotate: true
+	xy: 224, 403
+	size: 83, 38
+	orig: 83, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00070
+	rotate: true
+	xy: 507, 863
+	size: 84, 27
+	orig: 94, 35
+	offset: 5, 4
+	index: -1
+
+asset/spine/xiaotao_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ldxt_putongbisha__xwzs_s1_00015
+	rotate: false
+	xy: 343, 666
+	size: 97, 28
+	orig: 97, 28
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00043
+	rotate: true
+	xy: 675, 395
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00045
+	rotate: true
+	xy: 149, 918
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpbsxt_00049
+	rotate: false
+	xy: 631, 927
+	size: 66, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00047
+	rotate: true
+	xy: 188, 918
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpbsxt_00047
+	rotate: false
+	xy: 591, 888
+	size: 66, 38
+	orig: 68, 38
+	offset: 1, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00049
+	rotate: false
+	xy: 329, 984
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpbsxt_00045
+	rotate: true
+	xy: 534, 756
+	size: 64, 38
+	orig: 68, 38
+	offset: 2, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00061
+	rotate: false
+	xy: 562, 937
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpbsxt_00043
+	rotate: false
+	xy: 605, 976
+	size: 66, 38
+	orig: 68, 38
+	offset: 2, 0
+	index: -1
+effect/common/New_ldxt_putongbisha__xwzs_s1_00009
+	rotate: false
+	xy: 399, 911
+	size: 34, 29
+	orig: 34, 29
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00048
+	rotate: false
+	xy: 2, 807
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00062
+	rotate: false
+	xy: 244, 874
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00060
+	rotate: false
+	xy: 2, 903
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00066
+	rotate: true
+	xy: 43, 935
+	size: 86, 31
+	orig: 94, 35
+	offset: 4, 2
+	index: -1
+effect/common/New_ldxt_putongbisha__xwzs_s1_00007
+	rotate: true
+	xy: 371, 911
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00064
+	rotate: false
+	xy: 152, 886
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_putongbisha__xwzs_s1_00017
+	rotate: false
+	xy: 342, 790
+	size: 95, 27
+	orig: 95, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00046
+	rotate: true
+	xy: 75, 935
+	size: 80, 29
+	orig: 94, 35
+	offset: 7, 3
+	index: -1
+effect/common/ldxt_liumenbisha_dl_00070
+	rotate: false
+	xy: 2, 260
+	size: 117, 37
+	orig: 117, 37
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_putongbisha__xwzs_s1_00011
+	rotate: true
+	xy: 284, 906
+	size: 77, 27
+	orig: 77, 27
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00059
+	rotate: false
+	xy: 522, 898
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00057
+	rotate: false
+	xy: 536, 976
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00055
+	rotate: false
+	xy: 493, 937
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00053
+	rotate: false
+	xy: 467, 982
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpbsxt_00051
+	rotate: true
+	xy: 675, 257
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpxt_00051
+	rotate: false
+	xy: 398, 983
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/ldxt_liumenbisha_qpbsxt_00053
+	rotate: true
+	xy: 675, 326
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00058
+	rotate: false
+	xy: 2, 871
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00056
+	rotate: false
+	xy: 155, 854
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00054
+	rotate: false
+	xy: 244, 842
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00052
+	rotate: false
+	xy: 155, 822
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1
+effect/common/New_ldxt_xiaojineng_dbdl_00050
+	rotate: false
+	xy: 2, 839
+	size: 88, 31
+	orig: 94, 35
+	offset: 3, 2
+	index: -1

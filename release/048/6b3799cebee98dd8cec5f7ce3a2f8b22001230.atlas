@@ -1,0 +1,285 @@
+
+asset/spine/bsxtCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/xiaotao_kb_lh_bs_35
+	rotate: true
+	xy: 981, 137
+	size: 18, 20
+	orig: 20, 22
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_34
+	rotate: false
+	xy: 269, 979
+	size: 18, 36
+	orig: 20, 38
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_37
+	rotate: false
+	xy: 897, 684
+	size: 119, 91
+	orig: 121, 93
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_36
+	rotate: false
+	xy: 567, 975
+	size: 28, 32
+	orig: 30, 34
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_31
+	rotate: false
+	xy: 122, 979
+	size: 44, 37
+	orig: 46, 39
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_30
+	rotate: true
+	xy: 456, 975
+	size: 46, 27
+	orig: 48, 29
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_33
+	rotate: false
+	xy: 2, 979
+	size: 19, 42
+	orig: 21, 44
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_32
+	rotate: true
+	xy: 604, 2
+	size: 96, 51
+	orig: 98, 53
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_17
+	rotate: true
+	xy: 425, 975
+	size: 47, 30
+	orig: 49, 32
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_16
+	rotate: false
+	xy: 981, 2
+	size: 30, 30
+	orig: 32, 32
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_15
+	rotate: false
+	xy: 518, 975
+	size: 48, 35
+	orig: 50, 37
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_14
+	rotate: true
+	xy: 514, 431
+	size: 166, 98
+	orig: 168, 100
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_39
+	rotate: false
+	xy: 2, 2
+	size: 511, 617
+	orig: 513, 619
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_38
+	rotate: false
+	xy: 604, 213
+	size: 48, 112
+	orig: 50, 114
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_11
+	rotate: false
+	xy: 981, 62
+	size: 27, 53
+	orig: 29, 55
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_10
+	rotate: false
+	xy: 288, 979
+	size: 68, 35
+	orig: 70, 37
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_19
+	rotate: false
+	xy: 981, 116
+	size: 25, 20
+	orig: 27, 22
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_18
+	rotate: false
+	xy: 981, 33
+	size: 29, 28
+	orig: 31, 30
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_22
+	rotate: false
+	xy: 514, 213
+	size: 76, 70
+	orig: 78, 72
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_23
+	rotate: false
+	xy: 514, 99
+	size: 139, 113
+	orig: 141, 115
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_20
+	rotate: true
+	xy: 22, 979
+	size: 39, 25
+	orig: 41, 27
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_26
+	rotate: false
+	xy: 657, 458
+	size: 310, 225
+	orig: 312, 227
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_27
+	rotate: true
+	xy: 2, 620
+	size: 358, 287
+	orig: 360, 289
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_24
+	rotate: false
+	xy: 514, 2
+	size: 72, 91
+	orig: 74, 93
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_25
+	rotate: false
+	xy: 290, 620
+	size: 313, 354
+	orig: 315, 356
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_13
+	rotate: true
+	xy: 484, 975
+	size: 45, 33
+	orig: 47, 35
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_28
+	rotate: false
+	xy: 604, 684
+	size: 292, 288
+	orig: 294, 290
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_29
+	rotate: false
+	xy: 897, 776
+	size: 112, 108
+	orig: 114, 110
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_12
+	rotate: false
+	xy: 514, 339
+	size: 69, 90
+	orig: 71, 92
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_9
+	rotate: false
+	xy: 897, 885
+	size: 106, 96
+	orig: 108, 98
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_8
+	rotate: true
+	xy: 167, 979
+	size: 37, 29
+	orig: 39, 31
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_3
+	rotate: true
+	xy: 197, 979
+	size: 36, 71
+	orig: 38, 73
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_2
+	rotate: false
+	xy: 48, 979
+	size: 73, 37
+	orig: 75, 39
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_1
+	rotate: true
+	xy: 657, 2
+	size: 455, 323
+	orig: 457, 325
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_7
+	rotate: true
+	xy: 587, 326
+	size: 104, 69
+	orig: 106, 71
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_6
+	rotate: false
+	xy: 596, 975
+	size: 60, 30
+	orig: 62, 32
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_5
+	rotate: false
+	xy: 357, 975
+	size: 67, 47
+	orig: 69, 49
+	offset: 1, 1
+	index: -1
+role/xiaotao_kb_lh_bs_4
+	rotate: true
+	xy: 514, 284
+	size: 54, 72
+	orig: 56, 74
+	offset: 1, 1
+	index: -1
+
+asset/spine/bsxtCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/xiaotao_kb_lh_bs_21
+	rotate: false
+	xy: 2, 2
+	size: 191, 185
+	orig: 193, 187
+	offset: 1, 1
+	index: -1

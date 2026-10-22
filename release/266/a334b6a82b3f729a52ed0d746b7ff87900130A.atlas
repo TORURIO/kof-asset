@@ -1,0 +1,248 @@
+
+asset/spine/siren_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ld_jiji_liumenbisha_tzlg_00060
+	rotate: false
+	xy: 180, 427
+	size: 102, 11
+	orig: 102, 11
+	offset: 0, 0
+	index: -1
+effect/common/ld_jiji_liumenbisha_qtw_00038
+	rotate: false
+	xy: 2, 868
+	size: 16, 154
+	orig: 16, 154
+	offset: 0, 0
+	index: -1
+
+asset/spine/siren_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_liumenbisha2_fz_00140
+	rotate: false
+	xy: 824, 486
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/siren_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_liumenbisha2_fz_00096
+	rotate: false
+	xy: 742, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00098
+	rotate: false
+	xy: 742, 174
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00102
+	rotate: true
+	xy: 106, 283
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/ld_jiji_liumenbisha2_dg_00033
+	rotate: true
+	xy: 2, 283
+	size: 280, 103
+	orig: 280, 103
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00138
+	rotate: true
+	xy: 572, 2
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00132
+	rotate: true
+	xy: 344, 564
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00130
+	rotate: true
+	xy: 402, 2
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00134
+	rotate: true
+	xy: 344, 761
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00086
+	rotate: true
+	xy: 2, 761
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00084
+	rotate: true
+	xy: 2, 564
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00136
+	rotate: true
+	xy: 448, 280
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00128
+	rotate: true
+	xy: 278, 282
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00100
+	rotate: false
+	xy: 742, 346
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00106
+	rotate: false
+	xy: 738, 518
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00126
+	rotate: true
+	xy: 174, 761
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00104
+	rotate: true
+	xy: 230, 2
+	size: 196, 171
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00108
+	rotate: false
+	xy: 514, 784
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00124
+	rotate: true
+	xy: 174, 564
+	size: 196, 169
+	orig: 196, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/siren_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_ld_jiji_liumenbisha2_fz_00090
+	rotate: false
+	xy: 197, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00092
+	rotate: false
+	xy: 587, 342
+	size: 192, 171
+	orig: 196, 171
+	offset: 4, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00094
+	rotate: false
+	xy: 392, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00116
+	rotate: false
+	xy: 782, 172
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00114
+	rotate: false
+	xy: 587, 172
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00110
+	rotate: false
+	xy: 587, 2
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00112
+	rotate: false
+	xy: 782, 2
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00118
+	rotate: false
+	xy: 2, 174
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00088
+	rotate: false
+	xy: 2, 2
+	size: 194, 171
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00122
+	rotate: false
+	xy: 392, 174
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1
+effect/common/New_ld_jiji_liumenbisha2_fz_00120
+	rotate: false
+	xy: 197, 174
+	size: 194, 169
+	orig: 196, 171
+	offset: 2, 0
+	index: -1

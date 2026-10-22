@@ -1,0 +1,223 @@
+
+asset/spine/xiaotaoCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/xiaotao_kblh_bt_tu_13
+	rotate: true
+	xy: 982, 599
+	size: 62, 38
+	orig: 64, 40
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_12
+	rotate: false
+	xy: 2, 993
+	size: 57, 23
+	orig: 59, 25
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_11
+	rotate: false
+	xy: 796, 151
+	size: 210, 105
+	orig: 212, 107
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_10
+	rotate: true
+	xy: 872, 563
+	size: 45, 34
+	orig: 47, 36
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_17
+	rotate: true
+	xy: 907, 599
+	size: 73, 74
+	orig: 75, 76
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_16
+	rotate: true
+	xy: 915, 460
+	size: 94, 95
+	orig: 96, 97
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_15
+	rotate: false
+	xy: 790, 636
+	size: 59, 42
+	orig: 61, 44
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_14
+	rotate: true
+	xy: 982, 662
+	size: 63, 37
+	orig: 65, 39
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_31
+	rotate: false
+	xy: 229, 342
+	size: 336, 173
+	orig: 338, 175
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_30
+	rotate: true
+	xy: 725, 491
+	size: 95, 66
+	orig: 97, 68
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_19
+	rotate: false
+	xy: 2, 524
+	size: 387, 468
+	orig: 389, 470
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_18
+	rotate: false
+	xy: 796, 2
+	size: 222, 148
+	orig: 224, 150
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_9
+	rotate: true
+	xy: 566, 320
+	size: 56, 171
+	orig: 58, 173
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_8
+	rotate: true
+	xy: 566, 377
+	size: 232, 158
+	orig: 234, 160
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_3
+	rotate: false
+	xy: 792, 563
+	size: 79, 72
+	orig: 81, 74
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_2
+	rotate: false
+	xy: 738, 320
+	size: 54, 61
+	orig: 56, 63
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_1
+	rotate: true
+	xy: 725, 587
+	size: 63, 64
+	orig: 65, 66
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_7
+	rotate: true
+	xy: 907, 555
+	size: 43, 84
+	orig: 45, 86
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_6
+	rotate: false
+	xy: 969, 257
+	size: 48, 96
+	orig: 50, 98
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_5
+	rotate: false
+	xy: 915, 396
+	size: 104, 63
+	orig: 106, 65
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_4
+	rotate: false
+	xy: 792, 500
+	size: 114, 62
+	orig: 116, 64
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_28
+	rotate: true
+	xy: 872, 609
+	size: 41, 31
+	orig: 43, 33
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_29
+	rotate: false
+	xy: 725, 382
+	size: 67, 108
+	orig: 69, 110
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_22
+	rotate: true
+	xy: 796, 257
+	size: 123, 172
+	orig: 125, 174
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_23
+	rotate: false
+	xy: 390, 516
+	size: 157, 263
+	orig: 159, 265
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_20
+	rotate: true
+	xy: 969, 354
+	size: 41, 45
+	orig: 43, 47
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_21
+	rotate: false
+	xy: 850, 651
+	size: 54, 41
+	orig: 56, 43
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_26
+	rotate: false
+	xy: 793, 381
+	size: 121, 118
+	orig: 123, 120
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_27
+	rotate: true
+	xy: 548, 2
+	size: 317, 247
+	orig: 319, 249
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_24
+	rotate: true
+	xy: 229, 2
+	size: 339, 318
+	orig: 341, 320
+	offset: 1, 1
+	index: -1
+role/xiaotao_kblh_bt_tu_25
+	rotate: false
+	xy: 2, 2
+	size: 226, 521
+	orig: 228, 523
+	offset: 1, 1
+	index: -1

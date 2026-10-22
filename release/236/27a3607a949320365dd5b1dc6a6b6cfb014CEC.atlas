@@ -1,0 +1,4964 @@
+
+asset/spine/siren_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_siren_paobu1bozi
+	rotate: true
+	xy: 102, 352
+	size: 38, 47
+	orig: 46, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose4zuoshou
+	rotate: true
+	xy: 688, 674
+	size: 30, 36
+	orig: 40, 46
+	offset: 4, 5
+	index: -1
+DDD_siren_bu2toufa4
+	rotate: true
+	xy: 511, 410
+	size: 44, 50
+	orig: 52, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_daoditoufa4
+	rotate: false
+	xy: 739, 363
+	size: 53, 41
+	orig: 61, 49
+	offset: 4, 5
+	index: -1
+DDD_siren_paobu2zuobi
+	rotate: false
+	xy: 958, 287
+	size: 53, 39
+	orig: 61, 49
+	offset: 4, 6
+	index: -1
+DDD_siren_putongbishapose3youshoubi
+	rotate: false
+	xy: 186, 521
+	size: 40, 35
+	orig: 48, 45
+	offset: 4, 5
+	index: -1
+DDD_siren_daodiyoujiao
+	rotate: false
+	xy: 268, 557
+	size: 39, 35
+	orig: 49, 43
+	offset: 5, 4
+	index: -1
+DDD_siren_shoujipose5youjiao
+	rotate: false
+	xy: 422, 604
+	size: 36, 28
+	orig: 44, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2neiku
+	rotate: false
+	xy: 739, 85
+	size: 59, 33
+	orig: 67, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_gedangzuoshoubi
+	rotate: true
+	xy: 916, 205
+	size: 28, 58
+	orig: 36, 66
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose6youbi
+	rotate: true
+	xy: 979, 2
+	size: 57, 43
+	orig: 65, 51
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2youxiaotui
+	rotate: true
+	xy: 799, 118
+	size: 26, 59
+	orig: 34, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18neiku2
+	rotate: false
+	xy: 144, 463
+	size: 45, 40
+	orig: 53, 50
+	offset: 4, 5
+	index: -1
+DDD_siren_putonggongjipose1neiku1
+	rotate: false
+	xy: 278, 518
+	size: 40, 38
+	orig: 48, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3neiku1
+	rotate: false
+	xy: 418, 210
+	size: 54, 51
+	orig: 62, 59
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2youbi
+	rotate: true
+	xy: 739, 312
+	size: 50, 53
+	orig: 58, 61
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3zuoshoubi
+	rotate: true
+	xy: 123, 638
+	size: 31, 38
+	orig: 39, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4zuoshou2
+	rotate: false
+	xy: 459, 549
+	size: 43, 38
+	orig: 53, 46
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose9youxiaotui
+	rotate: true
+	xy: 408, 369
+	size: 47, 50
+	orig: 55, 58
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose1zuoshoubi
+	rotate: true
+	xy: 130, 603
+	size: 34, 39
+	orig: 44, 47
+	offset: 5, 4
+	index: -1
+DDD_siren_shoujipose3zuoshoubi
+	rotate: true
+	xy: 262, 593
+	size: 33, 38
+	orig: 41, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1zuoshoubi
+	rotate: false
+	xy: 251, 341
+	size: 47, 31
+	orig: 55, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5youshoubi
+	rotate: true
+	xy: 41, 692
+	size: 29, 38
+	orig: 37, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1zuodatui
+	rotate: false
+	xy: 62, 70
+	size: 59, 56
+	orig: 67, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyoujiao
+	rotate: false
+	xy: 36, 815
+	size: 28, 27
+	orig: 36, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9bozi
+	rotate: true
+	xy: 415, 262
+	size: 38, 54
+	orig: 46, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose5youjiao
+	rotate: false
+	xy: 299, 370
+	size: 47, 24
+	orig: 55, 32
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2youshoubi
+	rotate: false
+	xy: 162, 656
+	size: 37, 31
+	orig: 45, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3youbi
+	rotate: false
+	xy: 793, 417
+	size: 52, 49
+	orig: 60, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8youxiaotui
+	rotate: false
+	xy: 357, 264
+	size: 52, 38
+	orig: 60, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10zuoshou
+	rotate: true
+	xy: 536, 618
+	size: 26, 37
+	orig: 34, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2youshou
+	rotate: true
+	xy: 636, 639
+	size: 29, 25
+	orig: 37, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose5youxiaotui
+	rotate: true
+	xy: 339, 445
+	size: 33, 45
+	orig: 41, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12youjiao
+	rotate: true
+	xy: 431, 491
+	size: 44, 27
+	orig: 52, 35
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose7zuojiao
+	rotate: false
+	xy: 412, 740
+	size: 30, 28
+	orig: 38, 38
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose7youshou
+	rotate: false
+	xy: 611, 620
+	size: 24, 30
+	orig: 32, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2zuojiao
+	rotate: false
+	xy: 885, 685
+	size: 42, 26
+	orig: 50, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13youjiao
+	rotate: true
+	xy: 732, 555
+	size: 35, 43
+	orig: 43, 51
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3bozi
+	rotate: true
+	xy: 688, 534
+	size: 36, 43
+	orig: 46, 51
+	offset: 5, 4
+	index: -1
+DDD_siren_shoujipose5youshou
+	rotate: true
+	xy: 927, 720
+	size: 38, 41
+	orig: 48, 49
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2neiku1
+	rotate: false
+	xy: 649, 206
+	size: 54, 50
+	orig: 62, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5zuoshou
+	rotate: true
+	xy: 818, 638
+	size: 35, 42
+	orig: 43, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2zuoshoubi
+	rotate: false
+	xy: 739, 263
+	size: 54, 48
+	orig: 62, 56
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16youshou
+	rotate: false
+	xy: 133, 801
+	size: 27, 26
+	orig: 35, 34
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose7youshoubi
+	rotate: false
+	xy: 2, 608
+	size: 40, 27
+	orig: 48, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2neiku1
+	rotate: false
+	xy: 679, 2
+	size: 59, 46
+	orig: 67, 54
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14neiku
+	rotate: false
+	xy: 64, 2
+	size: 61, 35
+	orig: 69, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17zuoshoubi
+	rotate: false
+	xy: 150, 389
+	size: 47, 30
+	orig: 55, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1youjiao
+	rotate: true
+	xy: 431, 445
+	size: 45, 27
+	orig: 53, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15tou
+	rotate: false
+	xy: 820, 599
+	size: 42, 38
+	orig: 50, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1zuojiao
+	rotate: true
+	xy: 120, 670
+	size: 29, 37
+	orig: 37, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4zuoshou
+	rotate: true
+	xy: 531, 710
+	size: 29, 31
+	orig: 39, 39
+	offset: 5, 4
+	index: -1
+DDD_siren_putongbishapose1youxiaotui
+	rotate: false
+	xy: 312, 2
+	size: 61, 31
+	orig: 69, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3youjiao
+	rotate: true
+	xy: 567, 652
+	size: 34, 35
+	orig: 42, 43
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose18youjiao
+	rotate: false
+	xy: 282, 458
+	size: 45, 30
+	orig: 55, 40
+	offset: 4, 5
+	index: -1
+DDD_siren_paobu1youshou
+	rotate: false
+	xy: 938, 528
+	size: 48, 33
+	orig: 56, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17zuodatui
+	rotate: false
+	xy: 688, 406
+	size: 49, 48
+	orig: 57, 56
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3neiku2
+	rotate: false
+	xy: 919, 45
+	size: 59, 42
+	orig: 67, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4zuoshoubi
+	rotate: false
+	xy: 112, 251
+	size: 52, 31
+	orig: 60, 39
+	offset: 4, 5
+	index: -1
+DDD_siren_paobu2youxiaotui
+	rotate: false
+	xy: 688, 496
+	size: 49, 37
+	orig: 57, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8tou
+	rotate: false
+	xy: 901, 361
+	size: 52, 51
+	orig: 60, 59
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1youbi
+	rotate: false
+	xy: 679, 49
+	size: 59, 35
+	orig: 67, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1zuoushou
+	rotate: true
+	xy: 459, 725
+	size: 29, 30
+	orig: 37, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1zuoxiaotui
+	rotate: true
+	xy: 583, 294
+	size: 26, 54
+	orig: 34, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9youxiaobi
+	rotate: true
+	xy: 2, 278
+	size: 29, 52
+	orig: 37, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongyoushoubi
+	rotate: true
+	xy: 739, 212
+	size: 50, 54
+	orig: 58, 62
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose4zuoxiaotui
+	rotate: true
+	xy: 369, 74
+	size: 33, 57
+	orig: 41, 67
+	offset: 4, 5
+	index: -1
+DDD_siren_daiji2zuoshou
+	rotate: false
+	xy: 70, 813
+	size: 28, 27
+	orig: 36, 35
+	offset: 3, 4
+	index: -1
+DDD_siren_putonggongjipose2bozi
+	rotate: false
+	xy: 775, 660
+	size: 42, 31
+	orig: 50, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2youshoubi
+	rotate: true
+	xy: 979, 117
+	size: 56, 43
+	orig: 64, 51
+	offset: 3, 4
+	index: -1
+DDD_siren_shoujipose1youjiao
+	rotate: true
+	xy: 200, 679
+	size: 30, 35
+	orig: 38, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6youxiaobi
+	rotate: true
+	xy: 385, 475
+	size: 29, 45
+	orig: 37, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7youshou
+	rotate: false
+	xy: 428, 709
+	size: 30, 30
+	orig: 40, 38
+	offset: 5, 5
+	index: -1
+DDD_siren_daodiyouxiaotui
+	rotate: false
+	xy: 470, 281
+	size: 54, 27
+	orig: 62, 35
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose6zuoshou
+	rotate: true
+	xy: 443, 755
+	size: 28, 30
+	orig: 36, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2youbi
+	rotate: false
+	xy: 2, 42
+	size: 59, 57
+	orig: 67, 65
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3youshou
+	rotate: true
+	xy: 563, 687
+	size: 29, 31
+	orig: 37, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3zuojiao
+	rotate: false
+	xy: 43, 594
+	size: 40, 28
+	orig: 48, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12youshou
+	rotate: false
+	xy: 177, 771
+	size: 30, 26
+	orig: 40, 34
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose15zuoshoubi
+	rotate: true
+	xy: 704, 254
+	size: 47, 34
+	orig: 55, 42
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose12youshoubi
+	rotate: true
+	xy: 116, 203
+	size: 47, 52
+	orig: 55, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2youshou
+	rotate: false
+	xy: 596, 484
+	size: 44, 33
+	orig: 52, 43
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose11zuoxiaotui
+	rotate: true
+	xy: 2, 767
+	size: 32, 33
+	orig: 40, 41
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose1youshou
+	rotate: false
+	xy: 329, 655
+	size: 33, 31
+	orig: 41, 39
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose11neiku
+	rotate: true
+	xy: 953, 430
+	size: 48, 52
+	orig: 56, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7zuojiao
+	rotate: true
+	xy: 2, 574
+	size: 33, 40
+	orig: 41, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8youshoubi
+	rotate: false
+	xy: 885, 619
+	size: 42, 37
+	orig: 50, 47
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose1bozi
+	rotate: false
+	xy: 885, 576
+	size: 47, 42
+	orig: 55, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6zuojiao
+	rotate: false
+	xy: 662, 704
+	size: 24, 28
+	orig: 32, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_daodizuoshou
+	rotate: false
+	xy: 2, 431
+	size: 47, 27
+	orig: 57, 37
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose1youshoubi
+	rotate: true
+	xy: 48, 525
+	size: 34, 45
+	orig: 42, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyoushoubi
+	rotate: false
+	xy: 54, 334
+	size: 47, 40
+	orig: 55, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11youshoubi
+	rotate: false
+	xy: 2, 234
+	size: 52, 43
+	orig: 60, 51
+	offset: 4, 4
+	index: -1
+DDD_siren_gedangzuoshou
+	rotate: true
+	xy: 36, 785
+	size: 29, 33
+	orig: 37, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2youshou
+	rotate: true
+	xy: 595, 716
+	size: 28, 31
+	orig: 36, 39
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose4youshoubi
+	rotate: false
+	xy: 155, 309
+	size: 47, 40
+	orig: 55, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose4youjiao
+	rotate: false
+	xy: 2, 540
+	size: 45, 33
+	orig: 53, 43
+	offset: 4, 6
+	index: -1
+DDD_siren_liumenbishapose5youxiaotui
+	rotate: true
+	xy: 435, 71
+	size: 26, 58
+	orig: 34, 66
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6youshoubi
+	rotate: false
+	xy: 614, 375
+	size: 50, 31
+	orig: 58, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7youxiaotui
+	rotate: true
+	xy: 857, 178
+	size: 31, 58
+	orig: 39, 66
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose6youshoubi
+	rotate: true
+	xy: 928, 635
+	size: 29, 42
+	orig: 37, 50
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose6neiku
+	rotate: false
+	xy: 903, 323
+	size: 53, 37
+	orig: 61, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose2neiku
+	rotate: true
+	xy: 900, 413
+	size: 49, 52
+	orig: 57, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3zuoxiaobi
+	rotate: false
+	xy: 108, 283
+	size: 52, 25
+	orig: 60, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1bozi
+	rotate: true
+	xy: 738, 519
+	size: 35, 49
+	orig: 43, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose5zuoshou
+	rotate: true
+	xy: 350, 698
+	size: 29, 30
+	orig: 37, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3zuodatui
+	rotate: false
+	xy: 62, 70
+	size: 59, 56
+	orig: 67, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14youshoubi
+	rotate: false
+	xy: 2, 397
+	size: 47, 33
+	orig: 55, 41
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose11youshou
+	rotate: false
+	xy: 2, 733
+	size: 33, 33
+	orig: 41, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2youjiao
+	rotate: false
+	xy: 385, 604
+	size: 36, 28
+	orig: 44, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16neiku
+	rotate: false
+	xy: 846, 441
+	size: 52, 48
+	orig: 60, 56
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5zuoshoubi
+	rotate: true
+	xy: 473, 241
+	size: 39, 54
+	orig: 47, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6zuoxiaotui
+	rotate: false
+	xy: 345, 418
+	size: 46, 26
+	orig: 54, 34
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose15bozi
+	rotate: true
+	xy: 928, 693
+	size: 26, 42
+	orig: 34, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15zuoxiaotui
+	rotate: true
+	xy: 671, 121
+	size: 34, 56
+	orig: 44, 64
+	offset: 5, 4
+	index: -1
+DDD_siren_putonggongjipose1zuoshou
+	rotate: false
+	xy: 65, 841
+	size: 26, 22
+	orig: 34, 30
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5toufa1
+	rotate: false
+	xy: 367, 108
+	size: 56, 53
+	orig: 66, 61
+	offset: 5, 4
+	index: -1
+DDD_siren_daiji2zuobi2
+	rotate: false
+	xy: 188, 2
+	size: 61, 31
+	orig: 69, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3zuoshoubi
+	rotate: false
+	xy: 512, 359
+	size: 50, 50
+	orig: 58, 60
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose2erhuan2
+	rotate: false
+	xy: 665, 375
+	size: 22, 29
+	orig: 32, 39
+	offset: 5, 6
+	index: -1
+DDD_siren_putongbishapose2erhuan1
+	rotate: true
+	xy: 639, 539
+	size: 28, 22
+	orig: 36, 34
+	offset: 4, 6
+	index: -1
+DDD_siren_liumenbishapose11zuoshoubi
+	rotate: false
+	xy: 739, 405
+	size: 53, 31
+	orig: 61, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4zuobi
+	rotate: false
+	xy: 459, 478
+	size: 44, 43
+	orig: 52, 51
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose8youxiaotui
+	rotate: true
+	xy: 165, 282
+	size: 26, 52
+	orig: 36, 60
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose12zuojiao
+	rotate: true
+	xy: 662, 584
+	size: 32, 25
+	orig: 40, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16youjiao
+	rotate: false
+	xy: 181, 557
+	size: 40, 30
+	orig: 50, 40
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose6zuobi
+	rotate: false
+	xy: 794, 234
+	size: 54, 49
+	orig: 62, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_daijineiku
+	rotate: false
+	xy: 613, 87
+	size: 57, 35
+	orig: 65, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2zuojiao
+	rotate: true
+	xy: 636, 607
+	size: 31, 25
+	orig: 39, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6zuobi
+	rotate: true
+	xy: 918, 126
+	size: 39, 58
+	orig: 47, 66
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6youshou
+	rotate: false
+	xy: 442, 679
+	size: 31, 29
+	orig: 39, 39
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose9erhuan
+	rotate: false
+	xy: 509, 663
+	size: 21, 26
+	orig: 29, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu1neiku1
+	rotate: true
+	xy: 899, 463
+	size: 48, 52
+	orig: 56, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_daijizuobi
+	rotate: true
+	xy: 481, 134
+	size: 26, 56
+	orig: 34, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11zuoshou
+	rotate: true
+	xy: 861, 668
+	size: 26, 23
+	orig: 34, 31
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8neiku
+	rotate: true
+	xy: 975, 229
+	size: 57, 47
+	orig: 65, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13youshoubi
+	rotate: true
+	xy: 59, 206
+	size: 46, 52
+	orig: 54, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3zuobi
+	rotate: false
+	xy: 954, 380
+	size: 52, 49
+	orig: 60, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6youjiao
+	rotate: true
+	xy: 360, 548
+	size: 37, 38
+	orig: 47, 46
+	offset: 6, 4
+	index: -1
+DDD_siren_liumenbishapose7youshoubi
+	rotate: false
+	xy: 155, 350
+	size: 47, 38
+	orig: 55, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5youbi
+	rotate: false
+	xy: 480, 188
+	size: 54, 52
+	orig: 62, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4neiku2
+	rotate: false
+	xy: 904, 273
+	size: 53, 49
+	orig: 61, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose4neiku1
+	rotate: false
+	xy: 634, 325
+	size: 53, 49
+	orig: 61, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose3bozi
+	rotate: false
+	xy: 495, 627
+	size: 35, 35
+	orig: 43, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1neiku2
+	rotate: false
+	xy: 919, 88
+	size: 59, 37
+	orig: 67, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5youshoubi
+	rotate: false
+	xy: 283, 668
+	size: 33, 31
+	orig: 41, 41
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose1neiku1
+	rotate: false
+	xy: 859, 85
+	size: 59, 37
+	orig: 67, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1youbi
+	rotate: true
+	xy: 122, 71
+	size: 52, 59
+	orig: 60, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose7neiku1
+	rotate: false
+	xy: 788, 467
+	size: 49, 40
+	orig: 57, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2zuoshoubi
+	rotate: false
+	xy: 776, 589
+	size: 43, 31
+	orig: 53, 39
+	offset: 5, 5
+	index: -1
+DDD_siren_shoujipose5neiku2
+	rotate: false
+	xy: 849, 302
+	size: 53, 49
+	orig: 61, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose5neiku1
+	rotate: false
+	xy: 362, 162
+	size: 55, 49
+	orig: 63, 57
+	offset: 4, 5
+	index: -1
+DDD_siren_putonggongjipose2youshou
+	rotate: false
+	xy: 220, 754
+	size: 30, 27
+	orig: 38, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8youjiao
+	rotate: true
+	xy: 665, 405
+	size: 29, 22
+	orig: 37, 30
+	offset: 4, 4
+	index: -1
+DDD_siren_bu2tou
+	rotate: false
+	xy: 424, 154
+	size: 55, 55
+	orig: 63, 63
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2zuobi
+	rotate: false
+	xy: 957, 327
+	size: 52, 52
+	orig: 60, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15youshoubi
+	rotate: true
+	xy: 614, 407
+	size: 29, 50
+	orig: 37, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5neiku2
+	rotate: false
+	xy: 847, 390
+	size: 52, 50
+	orig: 60, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1zuoxiaotui
+	rotate: true
+	xy: 480, 161
+	size: 26, 55
+	orig: 36, 63
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose5neiku1
+	rotate: true
+	xy: 688, 353
+	size: 52, 50
+	orig: 60, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5zuojiao
+	rotate: true
+	xy: 278, 489
+	size: 28, 41
+	orig: 38, 53
+	offset: 4, 6
+	index: -1
+DDD_siren_liumenbisha2pose7bozi
+	rotate: true
+	xy: 236, 693
+	size: 31, 33
+	orig: 39, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4zuojiao
+	rotate: false
+	xy: 885, 657
+	size: 42, 27
+	orig: 50, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3youshou
+	rotate: false
+	xy: 270, 700
+	size: 32, 29
+	orig: 40, 37
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5bozi
+	rotate: true
+	xy: 548, 581
+	size: 36, 43
+	orig: 44, 51
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose5zuoshou
+	rotate: false
+	xy: 396, 693
+	size: 31, 26
+	orig: 39, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10youshou
+	rotate: false
+	xy: 662, 510
+	size: 25, 38
+	orig: 33, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7youshoubi
+	rotate: false
+	xy: 94, 540
+	size: 40, 34
+	orig: 48, 42
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose2youbi
+	rotate: true
+	xy: 2, 100
+	size: 54, 59
+	orig: 62, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10youjiao
+	rotate: false
+	xy: 236, 518
+	size: 41, 26
+	orig: 49, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2youjiao
+	rotate: true
+	xy: 282, 252
+	size: 38, 21
+	orig: 46, 29
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3zuoxiaotui
+	rotate: false
+	xy: 775, 621
+	size: 42, 38
+	orig: 50, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8youshou
+	rotate: true
+	xy: 636, 696
+	size: 24, 25
+	orig: 32, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8zuojiao
+	rotate: true
+	xy: 168, 798
+	size: 26, 28
+	orig: 34, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_daijibozi
+	rotate: true
+	xy: 731, 661
+	size: 30, 42
+	orig: 38, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17bozi
+	rotate: false
+	xy: 2, 502
+	size: 45, 37
+	orig: 53, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1zuoshoubi
+	rotate: true
+	xy: 419, 536
+	size: 38, 39
+	orig: 46, 47
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose9zuoxiaotui
+	rotate: false
+	xy: 304, 257
+	size: 52, 39
+	orig: 60, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2zuoshoubi3
+	rotate: false
+	xy: 427, 98
+	size: 57, 26
+	orig: 65, 34
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose17zuobi
+	rotate: false
+	xy: 977, 174
+	size: 45, 54
+	orig: 53, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14youshou
+	rotate: false
+	xy: 216, 613
+	size: 38, 31
+	orig: 46, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3youshou
+	rotate: true
+	xy: 490, 744
+	size: 29, 30
+	orig: 39, 40
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose7youjiao
+	rotate: false
+	xy: 89, 575
+	size: 40, 28
+	orig: 48, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2zuojiao
+	rotate: false
+	xy: 971, 669
+	size: 42, 26
+	orig: 50, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2bozi
+	rotate: true
+	xy: 50, 442
+	size: 43, 45
+	orig: 51, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1zuobi
+	rotate: true
+	xy: 580, 321
+	size: 50, 53
+	orig: 58, 63
+	offset: 3, 5
+	index: -1
+DDD_siren_shoujipose5bozi
+	rotate: false
+	xy: 981, 623
+	size: 41, 45
+	orig: 51, 53
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose18zuojiao
+	rotate: true
+	xy: 504, 484
+	size: 34, 44
+	orig: 42, 52
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbisha2pose3youjiao
+	rotate: true
+	xy: 200, 679
+	size: 30, 35
+	orig: 38, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu1youshoubi
+	rotate: false
+	xy: 356, 344
+	size: 51, 28
+	orig: 59, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3zuoshou
+	rotate: true
+	xy: 70, 786
+	size: 26, 32
+	orig: 34, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8youshoubi
+	rotate: false
+	xy: 818, 674
+	size: 42, 27
+	orig: 50, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3zuoxiaotui
+	rotate: true
+	xy: 229, 213
+	size: 43, 52
+	orig: 51, 60
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbisha2pose8zuoxiaotui
+	rotate: true
+	xy: 2, 308
+	size: 47, 51
+	orig: 55, 61
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose16zuoshou
+	rotate: false
+	xy: 506, 717
+	size: 24, 26
+	orig: 32, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3youxiaotui
+	rotate: false
+	xy: 688, 455
+	size: 49, 40
+	orig: 59, 48
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose4zuojiao
+	rotate: true
+	xy: 662, 464
+	size: 45, 25
+	orig: 53, 33
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose3zuoshou
+	rotate: false
+	xy: 187, 742
+	size: 32, 28
+	orig: 40, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2youshou
+	rotate: true
+	xy: 99, 818
+	size: 26, 27
+	orig: 34, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12zuoshou
+	rotate: true
+	xy: 863, 635
+	size: 32, 21
+	orig: 40, 31
+	offset: 4, 6
+	index: -1
+DDD_siren_putongbishapose2youdatui
+	rotate: false
+	xy: 2, 2
+	size: 61, 39
+	orig: 69, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15youbi
+	rotate: false
+	xy: 187, 68
+	size: 59, 52
+	orig: 67, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_daijineiku2
+	rotate: false
+	xy: 552, 105
+	size: 57, 35
+	orig: 65, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1youshoubi
+	rotate: false
+	xy: 55, 253
+	size: 52, 31
+	orig: 60, 39
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose15zuojiao
+	rotate: false
+	xy: 84, 604
+	size: 39, 31
+	orig: 49, 39
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbisha2pose8zuoshou
+	rotate: true
+	xy: 247, 661
+	size: 31, 35
+	orig: 39, 43
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose4zuoshou
+	rotate: true
+	xy: 641, 484
+	size: 28, 20
+	orig: 36, 28
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6youjiao
+	rotate: false
+	xy: 459, 449
+	size: 45, 28
+	orig: 53, 38
+	offset: 3, 5
+	index: -1
+DDD_siren_putongbishapose7youbi
+	rotate: true
+	xy: 788, 508
+	size: 35, 49
+	orig: 43, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu1zuoshou
+	rotate: false
+	xy: 140, 504
+	size: 45, 33
+	orig: 55, 41
+	offset: 5, 4
+	index: -1
+DDD_siren_daijiqiu
+	rotate: false
+	xy: 594, 157
+	size: 54, 53
+	orig: 62, 61
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3tou
+	rotate: true
+	xy: 667, 156
+	size: 49, 55
+	orig: 59, 65
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbisha2pose7zuoshou
+	rotate: true
+	xy: 137, 774
+	size: 26, 30
+	orig: 34, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose7zuoshou
+	rotate: false
+	xy: 363, 666
+	size: 32, 31
+	orig: 40, 41
+	offset: 4, 5
+	index: -1
+DDD_siren_putonggongjipose1youshou
+	rotate: false
+	xy: 409, 633
+	size: 33, 27
+	orig: 41, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5zuoxiaotui
+	rotate: false
+	xy: 251, 373
+	size: 46, 45
+	orig: 56, 55
+	offset: 4, 6
+	index: -1
+DDD_siren_liumenbishapose17neiku
+	rotate: false
+	xy: 592, 584
+	size: 43, 35
+	orig: 51, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6zuojiao
+	rotate: true
+	xy: 208, 782
+	size: 26, 28
+	orig: 34, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6neiku1
+	rotate: true
+	xy: 562, 418
+	size: 46, 49
+	orig: 54, 59
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose4youshoubi
+	rotate: false
+	xy: 838, 527
+	size: 49, 27
+	orig: 57, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose7youshou
+	rotate: true
+	xy: 438, 575
+	size: 24, 20
+	orig: 32, 28
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2zuoshou
+	rotate: false
+	xy: 381, 720
+	size: 30, 28
+	orig: 38, 38
+	offset: 3, 6
+	index: -1
+DDD_siren_liumenbishapose8youbi
+	rotate: true
+	xy: 693, 302
+	size: 50, 45
+	orig: 60, 55
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose10zuojiao
+	rotate: false
+	xy: 320, 508
+	size: 41, 27
+	orig: 49, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6bozi
+	rotate: false
+	xy: 837, 555
+	size: 47, 43
+	orig: 55, 51
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17zuoshou
+	rotate: false
+	xy: 103, 789
+	size: 29, 28
+	orig: 37, 36
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose14zuobi
+	rotate: true
+	xy: 194, 710
+	size: 31, 33
+	orig: 39, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17youshou
+	rotate: true
+	xy: 375, 633
+	size: 32, 33
+	orig: 40, 41
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose4bozi
+	rotate: false
+	xy: 549, 538
+	size: 43, 42
+	orig: 53, 50
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose18zuoshou
+	rotate: false
+	xy: 70, 756
+	size: 33, 29
+	orig: 41, 39
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose4bozi
+	rotate: false
+	xy: 987, 528
+	size: 35, 47
+	orig: 43, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7neiku2
+	rotate: false
+	xy: 62, 127
+	size: 56, 42
+	orig: 64, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7neiku1
+	rotate: false
+	xy: 122, 124
+	size: 56, 42
+	orig: 64, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose7neiku2
+	rotate: false
+	xy: 738, 478
+	size: 49, 40
+	orig: 57, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3erhuan
+	rotate: true
+	xy: 861, 695
+	size: 28, 22
+	orig: 36, 34
+	offset: 4, 6
+	index: -1
+DDD_siren_shoujipose4youshou
+	rotate: true
+	xy: 971, 696
+	size: 40, 41
+	orig: 48, 49
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu1zuoshoubi
+	rotate: true
+	xy: 301, 601
+	size: 34, 37
+	orig: 42, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1youxiaotui
+	rotate: true
+	xy: 169, 217
+	size: 36, 52
+	orig: 44, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13bozi
+	rotate: true
+	xy: 203, 327
+	size: 39, 47
+	orig: 47, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1zuojiao
+	rotate: false
+	xy: 176, 588
+	size: 39, 35
+	orig: 49, 43
+	offset: 5, 4
+	index: -1
+DDD_siren_shoujipose5zuobi
+	rotate: false
+	xy: 126, 2
+	size: 61, 34
+	orig: 69, 44
+	offset: 4, 5
+	index: -1
+DDD_siren_daiji2youshoubi
+	rotate: true
+	xy: 165, 254
+	size: 27, 52
+	orig: 35, 60
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose6neiku2
+	rotate: true
+	xy: 612, 437
+	size: 46, 49
+	orig: 54, 59
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose7erduo
+	rotate: false
+	xy: 723, 156
+	size: 15, 23
+	orig: 23, 31
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3zuoshou
+	rotate: false
+	xy: 662, 677
+	size: 25, 26
+	orig: 35, 34
+	offset: 5, 4
+	index: -1
+DDD_siren_shoujipose3youjiao
+	rotate: false
+	xy: 41, 722
+	size: 34, 29
+	orig: 42, 37
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2youshoubi
+	rotate: false
+	xy: 292, 431
+	size: 46, 26
+	orig: 54, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6youjiao
+	rotate: false
+	xy: 459, 522
+	size: 44, 26
+	orig: 52, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyoushou
+	rotate: false
+	xy: 48, 486
+	size: 45, 38
+	orig: 53, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2tou
+	rotate: true
+	xy: 304, 166
+	size: 49, 55
+	orig: 59, 65
+	offset: 5, 5
+	index: -1
+DDD_siren_putongbishapose5youshou
+	rotate: false
+	xy: 2, 800
+	size: 33, 28
+	orig: 41, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4youshou
+	rotate: true
+	xy: 261, 730
+	size: 28, 30
+	orig: 36, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2neiku
+	rotate: false
+	xy: 119, 167
+	size: 56, 35
+	orig: 64, 43
+	offset: 3, 4
+	index: -1
+DDD_siren_paobu2youjiao
+	rotate: true
+	xy: 140, 538
+	size: 35, 40
+	orig: 45, 48
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose8youdatui
+	rotate: true
+	xy: 374, 31
+	size: 42, 60
+	orig: 50, 68
+	offset: 4, 4
+	index: -1
+DDD_siren_daodizuoxiaotui
+	rotate: true
+	xy: 304, 216
+	size: 40, 52
+	orig: 50, 62
+	offset: 5, 6
+	index: -1
+DDD_siren_shoujipose5youdatui
+	rotate: true
+	xy: 55, 285
+	size: 48, 51
+	orig: 56, 59
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18bozi
+	rotate: true
+	xy: 209, 645
+	size: 33, 37
+	orig: 41, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8neiku1
+	rotate: true
+	xy: 198, 399
+	size: 44, 46
+	orig: 52, 54
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8neiku2
+	rotate: true
+	xy: 347, 373
+	size: 44, 46
+	orig: 52, 54
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6youbi
+	rotate: false
+	xy: 305, 115
+	size: 56, 50
+	orig: 64, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7zuoxiaotui
+	rotate: true
+	xy: 838, 490
+	size: 36, 49
+	orig: 44, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10youshoubi
+	rotate: true
+	xy: 98, 391
+	size: 28, 47
+	orig: 36, 55
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose9neiku2
+	rotate: false
+	xy: 408, 338
+	size: 51, 30
+	orig: 59, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9neiku1
+	rotate: false
+	xy: 304, 339
+	size: 51, 30
+	orig: 59, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_daodiozi
+	rotate: false
+	xy: 918, 166
+	size: 58, 38
+	orig: 66, 46
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose8youdatui
+	rotate: false
+	xy: 739, 119
+	size: 58, 45
+	orig: 66, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11zuojiao
+	rotate: true
+	xy: 50, 413
+	size: 28, 47
+	orig: 36, 55
+	offset: 4, 5
+	index: -1
+DDD_siren_bu3toufa2
+	rotate: true
+	xy: 504, 548
+	size: 42, 43
+	orig: 50, 51
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose17youbi
+	rotate: true
+	xy: 460, 364
+	size: 48, 50
+	orig: 56, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_bu3toufa4
+	rotate: true
+	xy: 144, 420
+	size: 42, 45
+	orig: 50, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1youshou
+	rotate: true
+	xy: 474, 695
+	size: 29, 31
+	orig: 37, 39
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose5zuoshoubi
+	rotate: false
+	xy: 704, 206
+	size: 34, 47
+	orig: 42, 55
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose3zuoshou
+	rotate: false
+	xy: 531, 740
+	size: 31, 26
+	orig: 39, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13zuoshoubi
+	rotate: true
+	xy: 525, 303
+	size: 26, 54
+	orig: 34, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8zuojiao
+	rotate: true
+	xy: 969, 737
+	size: 31, 41
+	orig: 39, 49
+	offset: 3, 5
+	index: -1
+DDD_siren_shoujipose4youjiao
+	rotate: false
+	xy: 399, 575
+	size: 38, 28
+	orig: 46, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2zuojiao
+	rotate: false
+	xy: 135, 574
+	size: 40, 28
+	orig: 48, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_bu2toufa3
+	rotate: true
+	xy: 2, 459
+	size: 42, 45
+	orig: 50, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_bu2toufa1
+	rotate: true
+	xy: 504, 548
+	size: 42, 43
+	orig: 50, 51
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose15neiku
+	rotate: true
+	xy: 270, 291
+	size: 49, 33
+	orig: 57, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10zuoshoubi
+	rotate: true
+	xy: 591, 211
+	size: 41, 54
+	orig: 49, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6youdatui
+	rotate: true
+	xy: 249, 34
+	size: 54, 59
+	orig: 62, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1youshoubi
+	rotate: false
+	xy: 339, 622
+	size: 35, 32
+	orig: 43, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongzuoshou
+	rotate: false
+	xy: 636, 669
+	size: 25, 26
+	orig: 33, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3zuojiao
+	rotate: false
+	xy: 885, 657
+	size: 42, 27
+	orig: 50, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2youxiaotui
+	rotate: true
+	xy: 645, 257
+	size: 40, 54
+	orig: 48, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5erhuan
+	rotate: false
+	xy: 509, 690
+	size: 21, 26
+	orig: 31, 36
+	offset: 5, 5
+	index: -1
+DDD_siren_gedangyoushou
+	rotate: false
+	xy: 36, 752
+	size: 33, 32
+	orig: 41, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1youjiao
+	rotate: false
+	xy: 594, 518
+	size: 44, 26
+	orig: 52, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2zuoshou
+	rotate: false
+	xy: 334, 728
+	size: 28, 27
+	orig: 36, 35
+	offset: 3, 5
+	index: -1
+DDD_siren_putonggongjipose1bozi
+	rotate: false
+	xy: 563, 372
+	size: 50, 45
+	orig: 60, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4youshou
+	rotate: false
+	xy: 76, 722
+	size: 33, 33
+	orig: 43, 41
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose18zuoshoubi
+	rotate: false
+	xy: 732, 591
+	size: 43, 27
+	orig: 51, 35
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose6zuobi
+	rotate: false
+	xy: 459, 413
+	size: 50, 35
+	orig: 58, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_daodiyoushou
+	rotate: true
+	xy: 282, 169
+	size: 41, 21
+	orig: 49, 29
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose12youdatui
+	rotate: true
+	xy: 494, 79
+	size: 54, 57
+	orig: 62, 67
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose1neiku
+	rotate: false
+	xy: 619, 2
+	size: 59, 46
+	orig: 67, 54
+	offset: 3, 4
+	index: -1
+DDD_siren_shoujipose2neiku2
+	rotate: false
+	xy: 739, 2
+	size: 59, 46
+	orig: 67, 54
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1youshoubi
+	rotate: false
+	xy: 459, 616
+	size: 35, 35
+	orig: 43, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5youshou
+	rotate: false
+	xy: 317, 687
+	size: 32, 30
+	orig: 40, 38
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose2youjiao
+	rotate: false
+	xy: 459, 588
+	size: 38, 27
+	orig: 46, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14youxiaotui
+	rotate: false
+	xy: 394, 417
+	size: 46, 27
+	orig: 54, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3youshoubi
+	rotate: true
+	xy: 638, 298
+	size: 26, 54
+	orig: 36, 62
+	offset: 5, 5
+	index: -1
+DDD_siren_putongbishapose2youbi
+	rotate: false
+	xy: 555, 50
+	size: 57, 54
+	orig: 65, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3zuoxiaotui
+	rotate: true
+	xy: 583, 294
+	size: 26, 54
+	orig: 34, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_daijizuojiao
+	rotate: false
+	xy: 135, 574
+	size: 40, 28
+	orig: 48, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongyoushou
+	rotate: true
+	xy: 603, 680
+	size: 35, 32
+	orig: 43, 42
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose2youshoubi
+	rotate: false
+	xy: 308, 564
+	size: 38, 36
+	orig: 46, 44
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2zuoshou
+	rotate: false
+	xy: 118, 700
+	size: 34, 31
+	orig: 44, 41
+	offset: 5, 6
+	index: -1
+DDD_siren_liumenbishapose12youbi
+	rotate: true
+	xy: 182, 121
+	size: 47, 56
+	orig: 55, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9zuojiao
+	rotate: true
+	xy: 928, 665
+	size: 27, 42
+	orig: 35, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12neiku
+	rotate: true
+	xy: 619, 49
+	size: 37, 59
+	orig: 45, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7zuoxiaotui
+	rotate: false
+	xy: 374, 2
+	size: 61, 28
+	orig: 69, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15youshou
+	rotate: true
+	xy: 2, 857
+	size: 21, 24
+	orig: 29, 32
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1zuoxiaotui
+	rotate: false
+	xy: 610, 123
+	size: 56, 33
+	orig: 64, 41
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose15youdatui
+	rotate: true
+	xy: 309, 86
+	size: 28, 57
+	orig: 36, 65
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4youdatui
+	rotate: true
+	xy: 793, 332
+	size: 47, 53
+	orig: 55, 61
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2bozi
+	rotate: true
+	xy: 347, 586
+	size: 35, 37
+	orig: 43, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10youxiaotui
+	rotate: false
+	xy: 738, 437
+	size: 49, 40
+	orig: 57, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_gedangyoushoubi
+	rotate: true
+	xy: 793, 380
+	size: 36, 53
+	orig: 44, 63
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose4youdatui
+	rotate: false
+	xy: 498, 2
+	size: 60, 47
+	orig: 70, 57
+	offset: 5, 5
+	index: -1
+DDD_siren_daodineiku2
+	rotate: true
+	xy: 94, 504
+	size: 35, 45
+	orig: 43, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_daodineiku1
+	rotate: true
+	xy: 190, 485
+	size: 35, 45
+	orig: 43, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9youshou
+	rotate: false
+	xy: 627, 721
+	size: 31, 26
+	orig: 39, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2youshoubi
+	rotate: true
+	xy: 304, 297
+	size: 41, 51
+	orig: 49, 59
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6zuoshoubi
+	rotate: true
+	xy: 888, 542
+	size: 33, 48
+	orig: 41, 56
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1neiku1
+	rotate: false
+	xy: 218, 284
+	size: 51, 42
+	orig: 59, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3zuobi
+	rotate: false
+	xy: 979, 60
+	size: 43, 56
+	orig: 51, 64
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose8zuoshoubi
+	rotate: true
+	xy: 688, 604
+	size: 27, 43
+	orig: 35, 51
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose15zuobi
+	rotate: false
+	xy: 536, 180
+	size: 54, 52
+	orig: 62, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7youjiao
+	rotate: true
+	xy: 200, 679
+	size: 30, 35
+	orig: 38, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_daodizuojiao
+	rotate: false
+	xy: 48, 560
+	size: 40, 33
+	orig: 50, 43
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose1youjiao
+	rotate: false
+	xy: 504, 519
+	size: 44, 28
+	orig: 52, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1neiku2
+	rotate: false
+	xy: 356, 303
+	size: 51, 40
+	orig: 59, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10zuoxiaotui
+	rotate: true
+	xy: 516, 330
+	size: 28, 52
+	orig: 36, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4youjiao
+	rotate: true
+	xy: 227, 545
+	size: 31, 40
+	orig: 39, 48
+	offset: 3, 4
+	index: -1
+DDD_siren_shoujipose2youjiao
+	rotate: false
+	xy: 170, 624
+	size: 38, 31
+	orig: 46, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2zuoshou2
+	rotate: true
+	xy: 593, 545
+	size: 38, 43
+	orig: 48, 51
+	offset: 5, 4
+	index: -1
+DDD_siren_daiji2zuoshou4
+	rotate: true
+	xy: 81, 663
+	size: 29, 38
+	orig: 37, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17youshoubi
+	rotate: true
+	xy: 59, 170
+	size: 35, 56
+	orig: 43, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1youshoubi
+	rotate: true
+	xy: 2, 198
+	size: 35, 56
+	orig: 43, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14zuojiao
+	rotate: true
+	xy: 319, 536
+	size: 27, 40
+	orig: 35, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7neiku1
+	rotate: true
+	xy: 933, 592
+	size: 42, 47
+	orig: 50, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7neiku2
+	rotate: true
+	xy: 107, 309
+	size: 42, 47
+	orig: 50, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1zuobi
+	rotate: false
+	xy: 250, 2
+	size: 61, 31
+	orig: 69, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11youxiaotui
+	rotate: false
+	xy: 385, 445
+	size: 45, 29
+	orig: 53, 37
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9youjiao
+	rotate: false
+	xy: 236, 489
+	size: 41, 28
+	orig: 49, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1bozi
+	rotate: false
+	xy: 788, 544
+	size: 48, 44
+	orig: 56, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6zuoshou
+	rotate: true
+	xy: 104, 762
+	size: 26, 32
+	orig: 36, 40
+	offset: 4, 5
+	index: -1
+DDD_siren_putonggongjipose2zuoshoubi
+	rotate: false
+	xy: 293, 636
+	size: 35, 31
+	orig: 43, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4youxiaotui
+	rotate: true
+	xy: 888, 512
+	size: 29, 49
+	orig: 37, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17zuojiao
+	rotate: false
+	xy: 2, 665
+	size: 38, 37
+	orig: 46, 47
+	offset: 4, 6
+	index: -1
+DDD_siren_paobu2zuoshoubi
+	rotate: false
+	xy: 505, 455
+	size: 45, 28
+	orig: 53, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2zuoshou
+	rotate: false
+	xy: 245, 419
+	size: 46, 33
+	orig: 54, 43
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose16zuoxiaotui
+	rotate: true
+	xy: 436, 2
+	size: 28, 61
+	orig: 36, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3youjiao
+	rotate: true
+	xy: 884, 712
+	size: 26, 42
+	orig: 34, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10neiku
+	rotate: true
+	xy: 688, 571
+	size: 32, 43
+	orig: 42, 53
+	offset: 6, 5
+	index: -1
+DDD_siren_liumenbishapose3youbi
+	rotate: true
+	xy: 799, 2
+	size: 45, 59
+	orig: 53, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7zuodatui
+	rotate: true
+	xy: 2, 155
+	size: 42, 56
+	orig: 50, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4neiku2
+	rotate: true
+	xy: 551, 465
+	size: 41, 44
+	orig: 49, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4neiku1
+	rotate: true
+	xy: 374, 505
+	size: 42, 44
+	orig: 50, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3youshoubi
+	rotate: false
+	xy: 222, 577
+	size: 39, 35
+	orig: 47, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2zuoshoubi
+	rotate: true
+	xy: 549, 507
+	size: 30, 44
+	orig: 38, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyoubi
+	rotate: false
+	xy: 309, 34
+	size: 59, 51
+	orig: 67, 59
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18neiku1
+	rotate: false
+	xy: 190, 444
+	size: 45, 40
+	orig: 53, 50
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose1youdatui
+	rotate: false
+	xy: 859, 123
+	size: 58, 54
+	orig: 66, 62
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4youshoubi
+	rotate: false
+	xy: 535, 233
+	size: 54, 40
+	orig: 62, 48
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose8bozi
+	rotate: true
+	xy: 986, 576
+	size: 46, 36
+	orig: 54, 44
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12youxiaotui
+	rotate: true
+	xy: 538, 141
+	size: 38, 55
+	orig: 48, 63
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose18youshou
+	rotate: true
+	xy: 303, 718
+	size: 28, 30
+	orig: 36, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8zuoshou
+	rotate: false
+	xy: 2, 829
+	size: 28, 27
+	orig: 36, 35
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose18youbi
+	rotate: true
+	xy: 496, 50
+	size: 28, 58
+	orig: 38, 66
+	offset: 5, 5
+	index: -1
+DDD_siren_shoujipose3zuobi
+	rotate: true
+	xy: 64, 38
+	size: 31, 60
+	orig: 39, 68
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3zuojiao
+	rotate: true
+	xy: 282, 211
+	size: 40, 21
+	orig: 48, 29
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16zuojiao
+	rotate: false
+	xy: 42, 653
+	size: 38, 38
+	orig: 46, 46
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose12zuoshoubi
+	rotate: true
+	xy: 188, 34
+	size: 33, 60
+	orig: 43, 68
+	offset: 6, 5
+	index: -1
+DDD_siren_liumenbishapose18youshoubi
+	rotate: false
+	xy: 460, 338
+	size: 51, 25
+	orig: 59, 33
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose3youxiaotui
+	rotate: true
+	xy: 424, 125
+	size: 28, 56
+	orig: 36, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6bozi
+	rotate: false
+	xy: 531, 645
+	size: 35, 34
+	orig: 43, 42
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1youxiaotui
+	rotate: true
+	xy: 126, 37
+	size: 33, 60
+	orig: 41, 68
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose3neiku
+	rotate: false
+	xy: 919, 2
+	size: 59, 42
+	orig: 67, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8youjiao
+	rotate: true
+	xy: 80, 693
+	size: 28, 37
+	orig: 36, 45
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose5youjiao
+	rotate: true
+	xy: 2, 636
+	size: 28, 39
+	orig: 36, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15zuoshou
+	rotate: true
+	xy: 531, 680
+	size: 29, 31
+	orig: 37, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongerhuan1
+	rotate: false
+	xy: 31, 843
+	size: 24, 24
+	orig: 32, 32
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1zuojiao
+	rotate: false
+	xy: 885, 657
+	size: 42, 27
+	orig: 50, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10bozi
+	rotate: true
+	xy: 176, 169
+	size: 47, 52
+	orig: 55, 60
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose8zuoshoubi
+	rotate: true
+	xy: 98, 420
+	size: 43, 45
+	orig: 51, 55
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose1zuobi
+	rotate: true
+	xy: 218, 257
+	size: 26, 52
+	orig: 34, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14youjiao
+	rotate: true
+	xy: 937, 562
+	size: 29, 48
+	orig: 37, 56
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose5neiku
+	rotate: false
+	xy: 435, 31
+	size: 60, 39
+	orig: 68, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6neiku
+	rotate: true
+	xy: 559, 2
+	size: 47, 59
+	orig: 55, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7zuoshoubi
+	rotate: false
+	xy: 251, 759
+	size: 28, 26
+	orig: 36, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3neiku
+	rotate: false
+	xy: 859, 47
+	size: 59, 37
+	orig: 67, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6youshou
+	rotate: true
+	xy: 641, 513
+	size: 25, 20
+	orig: 33, 28
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3youshou
+	rotate: true
+	xy: 2, 703
+	size: 29, 38
+	orig: 37, 46
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose3youxiaotui
+	rotate: true
+	xy: 410, 301
+	size: 36, 52
+	orig: 44, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10youbi
+	rotate: true
+	xy: 847, 352
+	size: 37, 53
+	orig: 45, 61
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose1zuoshou
+	rotate: true
+	xy: 662, 617
+	size: 30, 25
+	orig: 38, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4neiku2
+	rotate: false
+	xy: 679, 85
+	size: 59, 35
+	orig: 67, 43
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose4neiku1
+	rotate: false
+	xy: 739, 49
+	size: 59, 35
+	orig: 67, 43
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose13zuoshou
+	rotate: true
+	xy: 153, 715
+	size: 30, 33
+	orig: 38, 41
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose17youjiao
+	rotate: false
+	xy: 328, 479
+	size: 45, 28
+	orig: 53, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13youxiaotui
+	rotate: false
+	xy: 665, 435
+	size: 22, 28
+	orig: 30, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_daijizuoxiaotui
+	rotate: true
+	xy: 463, 309
+	size: 28, 52
+	orig: 36, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13youshou
+	rotate: false
+	xy: 255, 627
+	size: 37, 33
+	orig: 45, 43
+	offset: 3, 5
+	index: -1
+DDD_siren_putongbishapose4bozi
+	rotate: false
+	xy: 498, 591
+	size: 37, 35
+	orig: 45, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7youxiaotui
+	rotate: true
+	xy: 247, 89
+	size: 28, 57
+	orig: 36, 65
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8youshou
+	rotate: false
+	xy: 158, 688
+	size: 35, 26
+	orig: 43, 34
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose4youxiaotui
+	rotate: false
+	xy: 799, 86
+	size: 59, 31
+	orig: 67, 41
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose5zuoshoubi
+	rotate: true
+	xy: 83, 636
+	size: 26, 39
+	orig: 34, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1youshou
+	rotate: false
+	xy: 662, 648
+	size: 25, 28
+	orig: 33, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1neiku
+	rotate: true
+	xy: 732, 619
+	size: 41, 42
+	orig: 49, 50
+	offset: 4, 4
+	index: -1
+
+asset/spine/siren_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_siren_daoditoufa2
+	rotate: true
+	xy: 615, 1004
+	size: 18, 36
+	orig: 26, 44
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose14zuodatui
+	rotate: false
+	xy: 382, 106
+	size: 36, 75
+	orig: 44, 83
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose6zuoshoubi
+	rotate: true
+	xy: 946, 839
+	size: 36, 57
+	orig: 44, 65
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1zuobi
+	rotate: false
+	xy: 709, 544
+	size: 40, 66
+	orig: 48, 74
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2tou
+	rotate: false
+	xy: 362, 450
+	size: 77, 83
+	orig: 85, 91
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2zuoxiaotui
+	rotate: true
+	xy: 872, 516
+	size: 27, 58
+	orig: 35, 66
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose2zuojiao
+	rotate: false
+	xy: 559, 521
+	size: 36, 22
+	orig: 44, 30
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6shenti
+	rotate: false
+	xy: 236, 851
+	size: 78, 92
+	orig: 86, 100
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7youdatui
+	rotate: true
+	xy: 476, 2
+	size: 73, 38
+	orig: 81, 46
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose13youbi
+	rotate: false
+	xy: 378, 2
+	size: 54, 74
+	orig: 62, 82
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongzuoshoubi
+	rotate: true
+	xy: 884, 876
+	size: 32, 46
+	orig: 40, 54
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2zuobi
+	rotate: false
+	xy: 609, 323
+	size: 64, 69
+	orig: 72, 77
+	offset: 4, 5
+	index: -1
+DDD_siren_putonggongjipose2youdatui
+	rotate: true
+	xy: 456, 106
+	size: 73, 42
+	orig: 83, 50
+	offset: 6, 4
+	index: -1
+DDD_siren_putongbishapose7youdatui
+	rotate: true
+	xy: 959, 2
+	size: 55, 63
+	orig: 63, 71
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1shenti
+	rotate: false
+	xy: 66, 110
+	size: 82, 107
+	orig: 90, 115
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2youxiaotui
+	rotate: false
+	xy: 405, 291
+	size: 70, 31
+	orig: 78, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1shenti
+	rotate: true
+	xy: 299, 323
+	size: 85, 62
+	orig: 93, 70
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose5youshoubi
+	rotate: false
+	xy: 958, 511
+	size: 64, 31
+	orig: 72, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyoudatui
+	rotate: true
+	xy: 613, 289
+	size: 33, 63
+	orig: 41, 71
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4youbi
+	rotate: false
+	xy: 785, 848
+	size: 59, 51
+	orig: 67, 59
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4shenti
+	rotate: false
+	xy: 286, 755
+	size: 87, 91
+	orig: 95, 99
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3shenti
+	rotate: false
+	xy: 66, 326
+	size: 83, 105
+	orig: 91, 117
+	offset: 4, 9
+	index: -1
+DDD_siren_liumenbisha2pose2zuoshoubi
+	rotate: false
+	xy: 935, 155
+	size: 23, 32
+	orig: 31, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_daoditou2
+	rotate: false
+	xy: 558, 661
+	size: 71, 79
+	orig: 81, 87
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose5shenti
+	rotate: false
+	xy: 292, 545
+	size: 85, 92
+	orig: 93, 100
+	offset: 4, 4
+	index: -1
+DDD_siren_daodierduo
+	rotate: true
+	xy: 111, 644
+	size: 16, 21
+	orig: 24, 29
+	offset: 3, 5
+	index: -1
+DDD_siren_shoujipose5erduo
+	rotate: false
+	xy: 941, 389
+	size: 17, 20
+	orig: 27, 28
+	offset: 5, 4
+	index: -1
+DDD_siren_putongbishapose3erhuan2
+	rotate: false
+	xy: 935, 216
+	size: 22, 29
+	orig: 32, 39
+	offset: 5, 6
+	index: -1
+DDD_siren_liumenbishapose13zuoxiaotui
+	rotate: true
+	xy: 696, 73
+	size: 32, 61
+	orig: 40, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8zuoxiaotui
+	rotate: true
+	xy: 476, 291
+	size: 31, 70
+	orig: 39, 78
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongzuojiao
+	rotate: true
+	xy: 699, 519
+	size: 24, 49
+	orig: 32, 57
+	offset: 3, 4
+	index: -1
+DDD_siren_shoujipose3zuodatui
+	rotate: true
+	xy: 796, 217
+	size: 67, 52
+	orig: 77, 60
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose14youdatui
+	rotate: false
+	xy: 822, 661
+	size: 61, 59
+	orig: 69, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2zuoxiaotui
+	rotate: true
+	xy: 313, 187
+	size: 29, 53
+	orig: 37, 61
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13zuobi
+	rotate: true
+	xy: 812, 391
+	size: 58, 63
+	orig: 66, 71
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose5zuobi
+	rotate: false
+	xy: 948, 284
+	size: 65, 38
+	orig: 73, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16zuodatui
+	rotate: false
+	xy: 920, 323
+	size: 38, 65
+	orig: 46, 73
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose6zuodatui
+	rotate: true
+	xy: 626, 217
+	size: 69, 52
+	orig: 77, 60
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose7youbi
+	rotate: false
+	xy: 877, 482
+	size: 61, 33
+	orig: 69, 41
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8zuobi
+	rotate: false
+	xy: 831, 544
+	size: 45, 64
+	orig: 53, 72
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose14zuoxiaotui
+	rotate: true
+	xy: 884, 669
+	size: 56, 32
+	orig: 64, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2zuoxiaotui
+	rotate: false
+	xy: 917, 596
+	size: 40, 61
+	orig: 48, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_daijitoufa
+	rotate: true
+	xy: 849, 217
+	size: 66, 58
+	orig: 74, 66
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose1shenti
+	rotate: false
+	xy: 149, 110
+	size: 66, 104
+	orig: 74, 112
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4youxiaotui
+	rotate: true
+	xy: 697, 612
+	size: 48, 61
+	orig: 56, 71
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose2zuobi
+	rotate: false
+	xy: 854, 175
+	size: 59, 41
+	orig: 67, 49
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongshenti
+	rotate: true
+	xy: 702, 106
+	size: 69, 49
+	orig: 77, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14tou
+	rotate: true
+	xy: 571, 923
+	size: 80, 79
+	orig: 88, 87
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose8zuodatui
+	rotate: true
+	xy: 649, 106
+	size: 70, 52
+	orig: 78, 62
+	offset: 4, 5
+	index: -1
+DDD_siren_buchongzuobi
+	rotate: false
+	xy: 959, 435
+	size: 63, 34
+	orig: 71, 42
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3youdatui
+	rotate: true
+	xy: 946, 791
+	size: 47, 61
+	orig: 55, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2zuodatui
+	rotate: true
+	xy: 512, 180
+	size: 36, 71
+	orig: 44, 79
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4shenti
+	rotate: true
+	xy: 477, 661
+	size: 82, 80
+	orig: 90, 88
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1youdatui
+	rotate: false
+	xy: 57, 962
+	size: 49, 60
+	orig: 57, 68
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6shenti
+	rotate: false
+	xy: 66, 863
+	size: 72, 97
+	orig: 80, 105
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose2zuoxiaotui
+	rotate: false
+	xy: 931, 534
+	size: 26, 61
+	orig: 34, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_daijizuodatui
+	rotate: false
+	xy: 655, 177
+	size: 68, 39
+	orig: 76, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14shenti
+	rotate: true
+	xy: 393, 844
+	size: 89, 82
+	orig: 97, 90
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1zuodatui
+	rotate: true
+	xy: 759, 611
+	size: 49, 61
+	orig: 57, 69
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose3youdatui
+	rotate: false
+	xy: 915, 959
+	size: 45, 60
+	orig: 53, 68
+	offset: 4, 5
+	index: -1
+DDD_siren_putongbishapose4zuobi
+	rotate: false
+	xy: 882, 284
+	size: 65, 38
+	orig: 73, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongyoubi
+	rotate: false
+	xy: 845, 909
+	size: 58, 49
+	orig: 66, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5toufa3
+	rotate: false
+	xy: 831, 450
+	size: 45, 65
+	orig: 53, 73
+	offset: 4, 5
+	index: -1
+DDD_siren_daodizuodatui
+	rotate: false
+	xy: 489, 395
+	size: 64, 54
+	orig: 74, 64
+	offset: 4, 6
+	index: -1
+DDD_siren_shoujipose5shenti
+	rotate: false
+	xy: 208, 450
+	size: 82, 95
+	orig: 90, 103
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11youjiao
+	rotate: false
+	xy: 854, 998
+	size: 47, 24
+	orig: 57, 34
+	offset: 5, 5
+	index: -1
+DDD_siren_putongbishapose7shenti
+	rotate: false
+	xy: 166, 756
+	size: 68, 94
+	orig: 76, 102
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1zuoshou
+	rotate: true
+	xy: 82, 644
+	size: 16, 28
+	orig: 26, 36
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose1youbi
+	rotate: true
+	xy: 433, 323
+	size: 72, 33
+	orig: 82, 41
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose13shenti
+	rotate: false
+	xy: 78, 661
+	size: 84, 99
+	orig: 92, 107
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4zuodatui
+	rotate: true
+	xy: 531, 544
+	size: 69, 44
+	orig: 77, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyoushouzhi
+	rotate: true
+	xy: 666, 821
+	size: 19, 23
+	orig: 27, 31
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3youshoubi
+	rotate: false
+	xy: 877, 450
+	size: 63, 31
+	orig: 71, 39
+	offset: 4, 5
+	index: -1
+DDD_siren_daiji2zuoxiaotui
+	rotate: true
+	xy: 340, 78
+	size: 27, 58
+	orig: 35, 66
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose12zuoxiaotui
+	rotate: true
+	xy: 399, 77
+	size: 28, 65
+	orig: 36, 73
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10shenti
+	rotate: true
+	xy: 155, 547
+	size: 96, 59
+	orig: 104, 75
+	offset: 4, 12
+	index: -1
+DDD_siren_liumenbishapose13youdatui
+	rotate: true
+	xy: 876, 2
+	size: 55, 56
+	orig: 63, 64
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8youbi
+	rotate: true
+	xy: 884, 830
+	size: 45, 61
+	orig: 53, 69
+	offset: 4, 5
+	index: -1
+DDD_siren_paobu1shenti
+	rotate: false
+	xy: 374, 753
+	size: 89, 90
+	orig: 97, 98
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6zuodatui
+	rotate: true
+	xy: 796, 959
+	size: 38, 59
+	orig: 46, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2zuobi
+	rotate: false
+	xy: 884, 609
+	size: 32, 59
+	orig: 40, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_buchongtou
+	rotate: true
+	xy: 190, 956
+	size: 66, 73
+	orig: 74, 81
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5tou
+	rotate: true
+	xy: 540, 744
+	size: 82, 72
+	orig: 90, 82
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose4zuoxiaotui
+	rotate: false
+	xy: 749, 518
+	size: 60, 25
+	orig: 68, 33
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose10youdatui
+	rotate: true
+	xy: 882, 112
+	size: 62, 52
+	orig: 70, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13neiku1
+	rotate: true
+	xy: 917, 658
+	size: 60, 40
+	orig: 68, 48
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose13neiku2
+	rotate: true
+	xy: 917, 719
+	size: 60, 40
+	orig: 68, 48
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose11zuodatui
+	rotate: false
+	xy: 805, 323
+	size: 37, 67
+	orig: 49, 75
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose5zuobi
+	rotate: false
+	xy: 746, 286
+	size: 68, 36
+	orig: 76, 44
+	offset: 4, 4
+	index: -1
+DDD_siren_daijierhaun2
+	rotate: true
+	xy: 216, 209
+	size: 7, 28
+	orig: 15, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2zuodatui
+	rotate: true
+	xy: 433, 2
+	size: 74, 42
+	orig: 82, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8shenti
+	rotate: false
+	xy: 2, 450
+	size: 79, 108
+	orig: 87, 116
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1youdatui
+	rotate: false
+	xy: 348, 409
+	size: 73, 40
+	orig: 81, 50
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbisha2pose7zuojiao
+	rotate: false
+	xy: 753, 806
+	size: 31, 34
+	orig: 39, 42
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18zuodatui
+	rotate: true
+	xy: 515, 2
+	size: 73, 37
+	orig: 83, 45
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose7zuobi
+	rotate: true
+	xy: 721, 661
+	size: 65, 47
+	orig: 73, 55
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3yan
+	rotate: true
+	xy: 822, 831
+	size: 15, 28
+	orig: 27, 36
+	offset: 6, 4
+	index: -1
+DDD_siren_shoujipose2erduo
+	rotate: true
+	xy: 723, 727
+	size: 12, 19
+	orig: 20, 27
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2youxiaotui
+	rotate: false
+	xy: 660, 450
+	size: 42, 68
+	orig: 50, 76
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose1zuobi
+	rotate: true
+	xy: 585, 106
+	size: 70, 63
+	orig: 78, 71
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1zuodatui
+	rotate: true
+	xy: 958, 683
+	size: 56, 61
+	orig: 64, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6zuoshou
+	rotate: false
+	xy: 941, 410
+	size: 17, 19
+	orig: 25, 27
+	offset: 3, 4
+	index: -1
+DDD_siren_shoujipose5oubi
+	rotate: true
+	xy: 725, 841
+	size: 58, 59
+	orig: 66, 69
+	offset: 4, 5
+	index: -1
+DDD_siren_daiji2zuoshoubi2
+	rotate: true
+	xy: 976, 876
+	size: 32, 44
+	orig: 40, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6youxiaotui
+	rotate: false
+	xy: 644, 519
+	size: 54, 24
+	orig: 62, 32
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose2zuobi
+	rotate: true
+	xy: 877, 544
+	size: 64, 39
+	orig: 72, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6youdatui
+	rotate: false
+	xy: 677, 287
+	size: 68, 35
+	orig: 76, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9shenti
+	rotate: false
+	xy: 99, 761
+	size: 66, 97
+	orig: 74, 105
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2youbi
+	rotate: false
+	xy: 540, 106
+	size: 44, 72
+	orig: 52, 80
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbisha2pose4youdatui
+	rotate: true
+	xy: 275, 2
+	size: 77, 38
+	orig: 85, 48
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose2shenti
+	rotate: false
+	xy: 291, 450
+	size: 70, 94
+	orig: 78, 102
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13erduo
+	rotate: false
+	xy: 939, 482
+	size: 19, 19
+	orig: 27, 27
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2shenti
+	rotate: true
+	xy: 147, 218
+	size: 104, 92
+	orig: 112, 100
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose8shenti
+	rotate: false
+	xy: 150, 2
+	size: 63, 103
+	orig: 71, 111
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4youdatui
+	rotate: false
+	xy: 959, 207
+	size: 63, 38
+	orig: 71, 46
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose13toufa
+	rotate: true
+	xy: 392, 661
+	size: 89, 84
+	orig: 97, 92
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10zuobi
+	rotate: true
+	xy: 441, 181
+	size: 35, 70
+	orig: 43, 78
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2zuodatui
+	rotate: false
+	xy: 679, 217
+	size: 38, 68
+	orig: 46, 76
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose4youbi
+	rotate: true
+	xy: 629, 614
+	size: 46, 67
+	orig: 54, 75
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose2shenti
+	rotate: false
+	xy: 558, 841
+	size: 63, 81
+	orig: 71, 89
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3erduo
+	rotate: true
+	xy: 703, 728
+	size: 12, 19
+	orig: 20, 27
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose1zuoshoubi
+	rotate: true
+	xy: 933, 2
+	size: 55, 25
+	orig: 63, 33
+	offset: 4, 5
+	index: -1
+DDD_siren_daodierhuan1
+	rotate: true
+	xy: 725, 900
+	size: 18, 28
+	orig: 28, 36
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbisha2pose3zuobi
+	rotate: true
+	xy: 622, 841
+	size: 79, 42
+	orig: 87, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2youdatui
+	rotate: true
+	xy: 959, 160
+	size: 46, 63
+	orig: 54, 71
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose2yan
+	rotate: false
+	xy: 1004, 844
+	size: 15, 27
+	orig: 23, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2toufa
+	rotate: true
+	xy: 494, 927
+	size: 85, 76
+	orig: 93, 84
+	offset: 3, 5
+	index: -1
+DDD_siren_daodiyoushoubi
+	rotate: false
+	xy: 249, 187
+	size: 63, 29
+	orig: 71, 39
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose9zuodatui
+	rotate: false
+	xy: 2, 962
+	size: 54, 60
+	orig: 62, 68
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18shenti
+	rotate: true
+	xy: 249, 106
+	size: 80, 79
+	orig: 88, 87
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11youbi
+	rotate: true
+	xy: 731, 2
+	size: 70, 39
+	orig: 78, 47
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2shenti
+	rotate: true
+	xy: 2, 763
+	size: 99, 96
+	orig: 107, 104
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose4youjiao
+	rotate: false
+	xy: 935, 112
+	size: 23, 42
+	orig: 31, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_gedangzuobi
+	rotate: false
+	xy: 576, 544
+	size: 43, 69
+	orig: 51, 77
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose13zuojiao
+	rotate: true
+	xy: 699, 519
+	size: 24, 49
+	orig: 32, 57
+	offset: 3, 4
+	index: -1
+DDD_siren_shoujipose3youbi
+	rotate: true
+	xy: 769, 661
+	size: 64, 52
+	orig: 72, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7zuoushoubi
+	rotate: false
+	xy: 805, 998
+	size: 48, 24
+	orig: 56, 32
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3zuojiao
+	rotate: false
+	xy: 652, 1000
+	size: 47, 22
+	orig: 55, 30
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15erhuan1
+	rotate: false
+	xy: 917, 544
+	size: 10, 28
+	orig: 18, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose15erhuan2
+	rotate: true
+	xy: 531, 614
+	size: 10, 28
+	orig: 18, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4youbi
+	rotate: false
+	xy: 750, 544
+	size: 34, 66
+	orig: 42, 74
+	offset: 3, 5
+	index: -1
+DDD_siren_buchongerhuan2
+	rotate: true
+	xy: 98, 432
+	size: 17, 28
+	orig: 25, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17youdatui
+	rotate: true
+	xy: 880, 323
+	size: 65, 39
+	orig: 73, 47
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose16youbi
+	rotate: true
+	xy: 791, 175
+	size: 41, 62
+	orig: 49, 70
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose3zuodatui
+	rotate: false
+	xy: 856, 959
+	size: 58, 38
+	orig: 66, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu1zuobi
+	rotate: false
+	xy: 884, 609
+	size: 32, 59
+	orig: 40, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2zuodatui
+	rotate: false
+	xy: 959, 58
+	size: 63, 53
+	orig: 71, 61
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose9youdatui
+	rotate: true
+	xy: 499, 106
+	size: 73, 40
+	orig: 81, 50
+	offset: 3, 5
+	index: -1
+DDD_siren_liumenbishapose9zuobi
+	rotate: true
+	xy: 958, 618
+	size: 35, 62
+	orig: 43, 70
+	offset: 4, 4
+	index: -1
+DDD_siren_daijizuoshou
+	rotate: true
+	xy: 304, 303
+	size: 19, 27
+	orig: 27, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_daodiyan
+	rotate: true
+	xy: 941, 449
+	size: 18, 17
+	orig: 26, 27
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1zuodatui
+	rotate: true
+	xy: 815, 285
+	size: 37, 66
+	orig: 45, 74
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3youxiaotui
+	rotate: true
+	xy: 641, 75
+	size: 30, 54
+	orig: 38, 62
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose18youxiaotui
+	rotate: false
+	xy: 217, 420
+	size: 64, 29
+	orig: 74, 37
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose7shenti
+	rotate: true
+	xy: 464, 751
+	size: 89, 75
+	orig: 97, 83
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18zuobi
+	rotate: false
+	xy: 422, 404
+	size: 66, 45
+	orig: 74, 53
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu2youdatui
+	rotate: true
+	xy: 581, 217
+	size: 71, 44
+	orig: 79, 52
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6youxiaotui
+	rotate: false
+	xy: 758, 73
+	size: 60, 32
+	orig: 68, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12shenti
+	rotate: true
+	xy: 309, 661
+	size: 91, 82
+	orig: 99, 90
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1zuojiao
+	rotate: true
+	xy: 914, 175
+	size: 38, 20
+	orig: 46, 28
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3shenti
+	rotate: false
+	xy: 315, 847
+	size: 77, 91
+	orig: 85, 99
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2youdatui
+	rotate: true
+	xy: 961, 909
+	size: 45, 61
+	orig: 53, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_putonggongjipose2shenti
+	rotate: false
+	xy: 163, 661
+	size: 77, 94
+	orig: 87, 102
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose15toufa
+	rotate: true
+	xy: 539, 323
+	size: 71, 69
+	orig: 79, 77
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose7oubi
+	rotate: false
+	xy: 792, 450
+	size: 38, 66
+	orig: 46, 74
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17shenti
+	rotate: false
+	xy: 235, 756
+	size: 50, 94
+	orig: 58, 102
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1zuoxiaotui
+	rotate: true
+	xy: 332, 298
+	size: 24, 72
+	orig: 32, 80
+	offset: 4, 4
+	index: -1
+DDD_siren_bu3toufa1
+	rotate: true
+	xy: 630, 728
+	size: 12, 25
+	orig: 20, 33
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1youshou
+	rotate: true
+	xy: 884, 726
+	size: 53, 32
+	orig: 61, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose5youxiaotui
+	rotate: false
+	xy: 752, 106
+	size: 37, 68
+	orig: 45, 76
+	offset: 4, 4
+	index: -1
+DDD_siren_bu3toufa5
+	rotate: true
+	xy: 460, 544
+	size: 80, 70
+	orig: 88, 78
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1youxiaotui
+	rotate: true
+	xy: 810, 517
+	size: 26, 61
+	orig: 34, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose10zuodatui
+	rotate: false
+	xy: 630, 661
+	size: 45, 66
+	orig: 55, 74
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose6youshou
+	rotate: true
+	xy: 935, 188
+	size: 27, 23
+	orig: 35, 31
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose12zuodatui
+	rotate: true
+	xy: 367, 182
+	size: 34, 73
+	orig: 42, 81
+	offset: 3, 5
+	index: -1
+DDD_siren_putongbishapose7zuoshoubi
+	rotate: true
+	xy: 465, 77
+	size: 28, 64
+	orig: 36, 72
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose7zuobi
+	rotate: false
+	xy: 553, 2
+	size: 49, 72
+	orig: 57, 80
+	offset: 4, 4
+	index: -1
+DDD_siren_bu2toufa2
+	rotate: true
+	xy: 66, 432
+	size: 17, 31
+	orig: 25, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7shenti
+	rotate: false
+	xy: 150, 323
+	size: 75, 96
+	orig: 83, 104
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1youbi
+	rotate: false
+	xy: 584, 179
+	size: 70, 37
+	orig: 78, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6youdatui
+	rotate: false
+	xy: 107, 961
+	size: 82, 61
+	orig: 90, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_bu2toufa5
+	rotate: true
+	xy: 440, 450
+	size: 80, 70
+	orig: 88, 78
+	offset: 4, 4
+	index: -1
+DDD_siren_gedangyoubi
+	rotate: false
+	xy: 603, 2
+	size: 38, 72
+	orig: 46, 80
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3zuodatui
+	rotate: false
+	xy: 724, 176
+	size: 66, 40
+	orig: 74, 48
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose6youxiaotui
+	rotate: false
+	xy: 282, 419
+	size: 65, 30
+	orig: 73, 38
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose2toufa1
+	rotate: true
+	xy: 314, 2
+	size: 75, 63
+	orig: 83, 71
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbisha2pose8yan
+	rotate: false
+	xy: 153, 644
+	size: 18, 16
+	orig: 26, 26
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose5zuodatui
+	rotate: true
+	xy: 884, 780
+	size: 49, 61
+	orig: 57, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose11youdatui
+	rotate: false
+	xy: 819, 58
+	size: 64, 47
+	orig: 72, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose1tou
+	rotate: false
+	xy: 722, 920
+	size: 73, 77
+	orig: 81, 85
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose6zuoxiaotui
+	rotate: false
+	xy: 551, 450
+	size: 23, 70
+	orig: 31, 78
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3neiku2
+	rotate: true
+	xy: 785, 787
+	size: 60, 36
+	orig: 68, 44
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8zuobi
+	rotate: true
+	xy: 821, 610
+	size: 50, 62
+	orig: 58, 70
+	offset: 3, 5
+	index: -1
+DDD_siren_shoujipose1youbi
+	rotate: true
+	xy: 904, 909
+	size: 49, 56
+	orig: 57, 64
+	offset: 4, 5
+	index: -1
+DDD_siren_daijiyan
+	rotate: true
+	xy: 299, 409
+	size: 9, 21
+	orig: 17, 29
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13yan
+	rotate: true
+	xy: 591, 827
+	size: 13, 21
+	orig: 21, 29
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7zuobi
+	rotate: false
+	xy: 487, 625
+	size: 73, 35
+	orig: 81, 43
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3tou
+	rotate: false
+	xy: 317, 217
+	size: 75, 80
+	orig: 83, 88
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose3toufa
+	rotate: true
+	xy: 240, 217
+	size: 85, 76
+	orig: 93, 84
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose16youdatui
+	rotate: true
+	xy: 659, 544
+	size: 67, 49
+	orig: 75, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9zuoshoubi
+	rotate: true
+	xy: 530, 76
+	size: 29, 52
+	orig: 37, 60
+	offset: 4, 4
+	index: -1
+DDD_siren_paobu1youbi
+	rotate: true
+	xy: 757, 217
+	size: 68, 38
+	orig: 78, 48
+	offset: 5, 6
+	index: -1
+DDD_siren_liumenbishapose11zuobi
+	rotate: true
+	xy: 796, 900
+	size: 58, 48
+	orig: 66, 56
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose4shenti
+	rotate: false
+	xy: 82, 450
+	size: 81, 96
+	orig: 89, 104
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9yan
+	rotate: true
+	xy: 236, 944
+	size: 11, 21
+	orig: 21, 29
+	offset: 5, 4
+	index: -1
+DDD_siren_daoditou1
+	rotate: false
+	xy: 264, 944
+	size: 71, 78
+	orig: 81, 86
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose11shenti
+	rotate: false
+	xy: 417, 934
+	size: 76, 87
+	orig: 84, 95
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2neiku
+	rotate: true
+	xy: 961, 955
+	size: 45, 61
+	orig: 53, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose6shenti
+	rotate: true
+	xy: 215, 546
+	size: 94, 76
+	orig: 102, 84
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose13tou
+	rotate: true
+	xy: 822, 721
+	size: 56, 61
+	orig: 64, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose13zuodatui
+	rotate: false
+	xy: 716, 323
+	size: 40, 68
+	orig: 48, 76
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16zuobi
+	rotate: false
+	xy: 151, 420
+	size: 65, 29
+	orig: 73, 37
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose8zuodatui
+	rotate: false
+	xy: 419, 106
+	size: 36, 74
+	orig: 44, 82
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose5youdatui
+	rotate: true
+	xy: 642, 2
+	size: 70, 46
+	orig: 78, 56
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose12zubi
+	rotate: false
+	xy: 958, 740
+	size: 61, 50
+	orig: 69, 58
+	offset: 3, 4
+	index: -1
+DDD_siren_daijizuoshoubi
+	rotate: true
+	xy: 367, 638
+	size: 22, 50
+	orig: 30, 58
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3yan
+	rotate: true
+	xy: 851, 831
+	size: 15, 27
+	orig: 23, 35
+	offset: 4, 4
+	index: -1
+DDD_siren_daijitou
+	rotate: false
+	xy: 651, 921
+	size: 70, 78
+	orig: 78, 86
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose7youdatui
+	rotate: true
+	xy: 827, 112
+	size: 62, 54
+	orig: 70, 62
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose9erduo
+	rotate: false
+	xy: 941, 430
+	size: 17, 18
+	orig: 25, 26
+	offset: 4, 4
+	index: -1
+DDD_siren_daiji2zuodatui
+	rotate: false
+	xy: 689, 2
+	size: 41, 70
+	orig: 49, 78
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose4zuodatui
+	rotate: false
+	xy: 959, 323
+	size: 63, 37
+	orig: 71, 45
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose2tou
+	rotate: true
+	xy: 685, 392
+	size: 57, 64
+	orig: 65, 72
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18zuoxiaotui
+	rotate: false
+	xy: 958, 654
+	size: 62, 28
+	orig: 70, 36
+	offset: 4, 5
+	index: -1
+DDD_siren_daiji2zuoshou3
+	rotate: true
+	xy: 974, 246
+	size: 36, 48
+	orig: 44, 56
+	offset: 4, 4
+	index: -1
+DDD_siren_daodiyoubi
+	rotate: true
+	xy: 757, 323
+	size: 67, 47
+	orig: 77, 57
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose16tou
+	rotate: true
+	xy: 466, 217
+	size: 73, 69
+	orig: 81, 79
+	offset: 4, 7
+	index: -1
+DDD_siren_putonggongjipose1youdatui
+	rotate: true
+	xy: 561, 614
+	size: 46, 67
+	orig: 56, 75
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbisha2pose6youbi
+	rotate: false
+	xy: 959, 470
+	size: 62, 40
+	orig: 70, 48
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose7zuodatui
+	rotate: false
+	xy: 747, 740
+	size: 37, 65
+	orig: 45, 73
+	offset: 4, 4
+	index: -1
+DDD_siren_bu3toufa3
+	rotate: false
+	xy: 939, 502
+	size: 18, 31
+	orig: 26, 39
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose6zuoshoubi
+	rotate: false
+	xy: 613, 821
+	size: 26, 19
+	orig: 34, 27
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose4youxiaotui
+	rotate: true
+	xy: 845, 847
+	size: 61, 38
+	orig: 69, 46
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose5shenti
+	rotate: true
+	xy: 226, 323
+	size: 95, 72
+	orig: 103, 80
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose1shenti
+	rotate: false
+	xy: 66, 2
+	size: 83, 107
+	orig: 91, 115
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose2zuoshou
+	rotate: false
+	xy: 127, 432
+	size: 23, 17
+	orig: 31, 25
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3youdatui
+	rotate: false
+	xy: 57, 962
+	size: 49, 60
+	orig: 57, 68
+	offset: 4, 4
+	index: -1
+DDD_siren_daodishenti
+	rotate: true
+	xy: 214, 2
+	size: 103, 60
+	orig: 111, 68
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose2yan
+	rotate: true
+	xy: 191, 644
+	size: 15, 28
+	orig: 27, 36
+	offset: 6, 4
+	index: -1
+DDD_siren_buchongzuodatui
+	rotate: false
+	xy: 752, 450
+	size: 39, 66
+	orig: 49, 76
+	offset: 5, 5
+	index: -1
+DDD_siren_daodiyoudatui
+	rotate: true
+	xy: 843, 323
+	size: 66, 36
+	orig: 74, 44
+	offset: 3, 4
+	index: -1
+DDD_siren_liumenbishapose3youdatui
+	rotate: false
+	xy: 771, 2
+	size: 47, 66
+	orig: 57, 74
+	offset: 5, 5
+	index: -1
+DDD_siren_liumenbishapose7erhuan
+	rotate: true
+	xy: 426, 534
+	size: 10, 30
+	orig: 18, 38
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose3shenti
+	rotate: false
+	xy: 66, 218
+	size: 80, 107
+	orig: 88, 115
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose5youdatui
+	rotate: true
+	xy: 908, 246
+	size: 37, 65
+	orig: 45, 73
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17youxiaotui
+	rotate: true
+	xy: 583, 75
+	size: 30, 57
+	orig: 38, 65
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose7zuoxiaotui
+	rotate: true
+	xy: 275, 80
+	size: 25, 64
+	orig: 33, 74
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose7yan
+	rotate: true
+	xy: 681, 728
+	size: 12, 21
+	orig: 22, 29
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose15zuodatui
+	rotate: false
+	xy: 674, 323
+	size: 41, 68
+	orig: 51, 76
+	offset: 6, 4
+	index: -1
+DDD_siren_liumenbishapose16shenti
+	rotate: false
+	xy: 82, 547
+	size: 72, 96
+	orig: 80, 104
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8erhuan2
+	rotate: true
+	xy: 531, 614
+	size: 10, 28
+	orig: 18, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8erhuan1
+	rotate: true
+	xy: 754, 900
+	size: 18, 26
+	orig: 26, 34
+	offset: 4, 4
+	index: -1
+DDD_siren_bu2yan
+	rotate: true
+	xy: 299, 409
+	size: 9, 21
+	orig: 17, 29
+	offset: 4, 4
+	index: -1
+DDD_siren_daijitoufa2
+	rotate: true
+	xy: 750, 392
+	size: 57, 61
+	orig: 65, 69
+	offset: 4, 4
+	index: -1
+DDD_siren_daijiyouxiaotui
+	rotate: true
+	xy: 745, 998
+	size: 24, 59
+	orig: 32, 67
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose7zuodatui
+	rotate: false
+	xy: 718, 217
+	size: 38, 68
+	orig: 46, 76
+	offset: 3, 4
+	index: -1
+DDD_siren_daijishenti
+	rotate: false
+	xy: 2, 661
+	size: 75, 101
+	orig: 83, 109
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9zuoshou
+	rotate: false
+	xy: 540, 827
+	size: 26, 13
+	orig: 34, 21
+	offset: 4, 4
+	index: -1
+DDD_siren_daijierhuan
+	rotate: true
+	xy: 531, 614
+	size: 10, 28
+	orig: 18, 36
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose2shenti
+	rotate: false
+	xy: 139, 859
+	size: 96, 96
+	orig: 104, 104
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose3shenti
+	rotate: false
+	xy: 2, 559
+	size: 79, 101
+	orig: 87, 109
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose2zuobi
+	rotate: true
+	xy: 822, 778
+	size: 52, 61
+	orig: 60, 69
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose3youbi
+	rotate: true
+	xy: 620, 544
+	size: 69, 38
+	orig: 77, 48
+	offset: 4, 5
+	index: -1
+DDD_siren_liumenbishapose7tou
+	rotate: false
+	xy: 362, 323
+	size: 70, 80
+	orig: 78, 88
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose9youbi
+	rotate: true
+	xy: 959, 399
+	size: 35, 63
+	orig: 43, 71
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose1shenti
+	rotate: false
+	xy: 378, 545
+	size: 81, 82
+	orig: 89, 90
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose17zuoxiaotui
+	rotate: false
+	xy: 931, 876
+	size: 44, 32
+	orig: 52, 40
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16zuoshoubi
+	rotate: true
+	xy: 516, 521
+	size: 22, 42
+	orig: 30, 50
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8toufa1
+	rotate: false
+	xy: 819, 2
+	size: 56, 55
+	orig: 64, 63
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbisha2pose8toufa2
+	rotate: false
+	xy: 393, 217
+	size: 72, 73
+	orig: 82, 81
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose16youshoubi
+	rotate: false
+	xy: 596, 520
+	size: 47, 23
+	orig: 55, 33
+	offset: 4, 5
+	index: -1
+DDD_siren_shoujipose5yan
+	rotate: true
+	xy: 567, 827
+	size: 13, 23
+	orig: 21, 31
+	offset: 3, 5
+	index: -1
+DDD_siren_shoujipose3neiku1
+	rotate: true
+	xy: 785, 726
+	size: 60, 36
+	orig: 68, 44
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose18youdatui
+	rotate: true
+	xy: 659, 544
+	size: 67, 49
+	orig: 75, 57
+	offset: 4, 4
+	index: -1
+DDD_siren_putongbishapose5youbi
+	rotate: true
+	xy: 790, 106
+	size: 68, 36
+	orig: 76, 44
+	offset: 4, 4
+	index: -1
+DDD_siren_shoujipose2youbi
+	rotate: true
+	xy: 959, 361
+	size: 37, 63
+	orig: 45, 71
+	offset: 4, 5
+	index: -1
+DDD_siren_daiji2youbi
+	rotate: false
+	xy: 617, 450
+	size: 42, 68
+	orig: 50, 76
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose14youbi
+	rotate: true
+	xy: 511, 450
+	size: 70, 39
+	orig: 78, 47
+	offset: 3, 4
+	index: -1
+DDD_siren_putongbishapose3zuoxiaotui
+	rotate: true
+	xy: 914, 214
+	size: 31, 20
+	orig: 39, 28
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose3toufa1
+	rotate: true
+	xy: 613, 741
+	size: 79, 69
+	orig: 87, 77
+	offset: 4, 4
+	index: -1
+DDD_siren_liumenbishapose16youxiaotui
+	rotate: false
+	xy: 217, 420
+	size: 64, 29
+	orig: 74, 37
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose4zuoshoubi
+	rotate: false
+	xy: 314, 638
+	size: 52, 22
+	orig: 62, 30
+	offset: 5, 4
+	index: -1
+DDD_siren_liumenbishapose15shenti
+	rotate: false
+	xy: 336, 939
+	size: 80, 83
+	orig: 88, 91
+	offset: 4, 4
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
