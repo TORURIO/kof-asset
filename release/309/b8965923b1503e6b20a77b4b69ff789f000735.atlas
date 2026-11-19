@@ -1,0 +1,106 @@
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/ziyuanRE_common0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ziwan_sitou_a
+	rotate: false
+	xy: 2, 2
+	size: 362, 197
+	orig: 364, 199
+	offset: 1, 1
+	index: -1
+effect/common/ziwan_sitou_b
+	rotate: false
+	xy: 185, 200
+	size: 161, 173
+	orig: 163, 175
+	offset: 1, 1
+	index: -1
+effect/common/ziwan_sitou_c
+	rotate: false
+	xy: 2, 200
+	size: 182, 197
+	orig: 184, 199
+	offset: 1, 1
+	index: -1
+effect/common/ziwan_sitou_d
+	rotate: false
+	xy: 347, 200
+	size: 161, 173
+	orig: 163, 175
+	offset: 1, 1
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1

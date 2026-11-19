@@ -1,0 +1,153 @@
+
+asset/spine/ziyuanSZRECard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/zailin_ziyuan_lhkb_tu_21
+	rotate: false
+	xy: 2, 2
+	size: 607, 221
+	orig: 609, 223
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_20
+	rotate: false
+	xy: 2, 795
+	size: 255, 216
+	orig: 257, 218
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_13
+	rotate: true
+	xy: 258, 795
+	size: 163, 278
+	orig: 165, 280
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_10
+	rotate: true
+	xy: 417, 224
+	size: 115, 192
+	orig: 117, 194
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_14
+	rotate: true
+	xy: 417, 340
+	size: 210, 178
+	orig: 212, 180
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_17
+	rotate: true
+	xy: 2, 576
+	size: 207, 201
+	orig: 209, 203
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_15
+	rotate: true
+	xy: 596, 485
+	size: 237, 278
+	orig: 239, 280
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_18
+	rotate: false
+	xy: 968, 2
+	size: 33, 165
+	orig: 35, 167
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_19
+	rotate: true
+	xy: 2, 224
+	size: 351, 414
+	orig: 353, 416
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_8
+	rotate: true
+	xy: 610, 2
+	size: 223, 357
+	orig: 225, 359
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_9
+	rotate: true
+	xy: 968, 168
+	size: 56, 25
+	orig: 58, 27
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_16
+	rotate: false
+	xy: 894, 373
+	size: 125, 80
+	orig: 127, 82
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_11
+	rotate: false
+	xy: 842, 763
+	size: 161, 132
+	orig: 163, 134
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_2
+	rotate: false
+	xy: 894, 226
+	size: 126, 146
+	orig: 128, 148
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_3
+	rotate: true
+	xy: 417, 551
+	size: 243, 173
+	orig: 245, 175
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_12
+	rotate: true
+	xy: 610, 226
+	size: 258, 283
+	orig: 260, 285
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_1
+	rotate: false
+	xy: 591, 763
+	size: 250, 259
+	orig: 252, 261
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_6
+	rotate: true
+	xy: 204, 576
+	size: 86, 196
+	orig: 88, 198
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_7
+	rotate: false
+	xy: 875, 594
+	size: 142, 168
+	orig: 144, 170
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_4
+	rotate: true
+	xy: 842, 896
+	size: 93, 66
+	orig: 95, 68
+	offset: 1, 1
+	index: -1
+role/zailin_ziyuan_lhkb_tu_5
+	rotate: true
+	xy: 894, 454
+	size: 139, 120
+	orig: 141, 122
+	offset: 1, 1
+	index: -1
